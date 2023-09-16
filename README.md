@@ -25,6 +25,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Metal](#metal)
 - [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
@@ -722,6 +723,10 @@
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
+## Metal 
+
+- [albertstarfield/alpaca-electron-zephyrine](https://github.com/albertstarfield/alpaca-electron-zephyrine) - Project Zephyrine: Empowering Your Chat Experience with LLaMA (GGML v2 GGML v3 GGUF), LLM, mpt, and GPU Acceleration in an Updated Alpaca Electron Chatbot Local GUI
 
 ## Nunjucks 
 
