@@ -1037,6 +1037,7 @@
 
 ## font 
 
+- [Nearoo/pygame-text-input](https://github.com/Nearoo/pygame-text-input) - a small module that enables you to input text with your keyboard using pygame
 - [ajstarks/openvg](https://github.com/ajstarks/openvg) - Tools for exploring OpenVG
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
@@ -1482,7 +1483,7 @@
 ## html 
 
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular and open-source library of Tailwind CSS components
-- [deanblackborough/php-quill-renderer](https://github.com/deanblackborough/php-quill-renderer) - Render quill insert deltas to HTML, Markdown and GitHub flavoured Markdown
+- [deanblackborough/php-quill-renderer](https://github.com/deanblackborough/php-quill-renderer) - Render quill insert deltas to HTML, Markdown and GitHub flavoured Markdown (150k installs on Packagist)
 - [nadar/quill-delta-parser](https://github.com/nadar/quill-delta-parser) - A PHP library to parse and render Quill WYSIWYG Deltas into HTML - Flexibel and extendible for custom elements.
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
@@ -2042,7 +2043,7 @@
 
 ## markdown 
 
-- [deanblackborough/php-quill-renderer](https://github.com/deanblackborough/php-quill-renderer) - Render quill insert deltas to HTML, Markdown and GitHub flavoured Markdown
+- [deanblackborough/php-quill-renderer](https://github.com/deanblackborough/php-quill-renderer) - Render quill insert deltas to HTML, Markdown and GitHub flavoured Markdown (150k installs on Packagist)
 - [egoist/maid](https://github.com/egoist/maid) - Markdown driven task runner.
 - [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
