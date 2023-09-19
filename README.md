@@ -920,7 +920,7 @@
 - [alixaxel/ArrestDB](https://github.com/alixaxel/ArrestDB) - RESTful PHP API for SQLite, MySQL and PostgreSQL Databases
 - [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [mike42/escpos-php](https://github.com/mike42/escpos-php) - PHP library for printing to ESC/POS-compatible thermal and impact printers
-- [deanblackborough/php-quill-renderer](https://github.com/deanblackborough/php-quill-renderer) - Render quill insert deltas to HTML, Markdown and GitHub flavoured Markdown
+- [deanblackborough/php-quill-renderer](https://github.com/deanblackborough/php-quill-renderer) - Render quill insert deltas to HTML, Markdown and GitHub flavoured Markdown (150k installs on Packagist)
 - [nadar/quill-delta-parser](https://github.com/nadar/quill-delta-parser) - A PHP library to parse and render Quill WYSIWYG Deltas into HTML - Flexibel and extendible for custom elements.
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) - PHP Object Oriented image manipulation library
@@ -1163,6 +1163,7 @@
 
 ## Python 
 
+- [Nearoo/pygame-text-input](https://github.com/Nearoo/pygame-text-input) - a small module that enables you to input text with your keyboard using pygame
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [thombashi/pathvalidate](https://github.com/thombashi/pathvalidate) - A Python library to sanitize/validate a string such as filenames/file-paths/etc.
 - [gluster/glustercli-python](https://github.com/gluster/glustercli-python) - Python bindings for Gluster Commands and Metrics
