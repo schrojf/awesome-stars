@@ -1112,7 +1112,7 @@
 - [doctrine/orientdb-odm](https://github.com/doctrine/orientdb-odm) - A set of PHP libraries in order to use OrientDB from PHP
 - [orientechnologies/PhpOrient](https://github.com/orientechnologies/PhpOrient) - PhpOrient - PHP binary client for OrientDB
 - [StyleCI/SDK](https://github.com/StyleCI/SDK) - The StyleCI PHP SDK.
-- [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - sample code for several design patterns in PHP 8
+- [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
 - [ehsangazar/design-patterns-php](https://github.com/ehsangazar/design-patterns-php) - All Design Patterns Samples in PHP
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succin
@@ -1123,7 +1123,7 @@
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel, Flutter and React
 - [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
-- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
