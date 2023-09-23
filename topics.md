@@ -554,7 +554,7 @@
 
 ## chatgpt 
 
-- [albertstarfield/alpaca-electron-zephyrine](https://github.com/albertstarfield/alpaca-electron-zephyrine) - Project Zephyrine: Empowering Your Chat Experience with LLaMA (GGML v2 GGML v3 GGUF), LLM, mpt, and GPU Acceleration in an Updated Alpaca Electron Chatbot Local GUI
+- [albertstarfield/alpaca-electron-zephyrine](https://github.com/albertstarfield/alpaca-electron-zephyrine) - Introducing Project Zephyrine: Elevating Your Interaction Experience with LLM (LLaMa, LLaMA-2, Falcon), Harnessing the Power of GGML v2, GGML v3, GGUF, and Employing GPU Acceleration within a Moderniz
 
 ## chrome 
 
@@ -936,7 +936,7 @@
 
 ## electron 
 
-- [albertstarfield/alpaca-electron-zephyrine](https://github.com/albertstarfield/alpaca-electron-zephyrine) - Project Zephyrine: Empowering Your Chat Experience with LLaMA (GGML v2 GGML v3 GGUF), LLM, mpt, and GPU Acceleration in an Updated Alpaca Electron Chatbot Local GUI
+- [albertstarfield/alpaca-electron-zephyrine](https://github.com/albertstarfield/alpaca-electron-zephyrine) - Introducing Project Zephyrine: Elevating Your Interaction Experience with LLM (LLaMa, LLaMA-2, Falcon), Harnessing the Power of GGML v2, GGML v3, GGUF, and Employing GPU Acceleration within a Moderniz
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [Netflix-Skunkworks/stethoscope-app](https://github.com/Netflix-Skunkworks/stethoscope-app) - A desktop application that checks security-related settings and makes recommendations for improvements without requiring central device management or automated reporting.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
@@ -1012,7 +1012,7 @@
 
 ## finance 
 
-- [akaunting/akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software
+- [akaunting/akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
 - [zavtech/morpheus-core](https://github.com/zavtech/morpheus-core) - The foundational library of the Morpheus data science framework
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 
@@ -1614,7 +1614,7 @@
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
-- [mdaines/viz-js](https://github.com/mdaines/viz-js) - Graphviz in your browser!
+- [mdaines/viz-js](https://github.com/mdaines/viz-js) - Graphviz in your browser
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [milroyfraser/sarala](https://github.com/milroyfraser/sarala) - Javascript library to communicate with RESTful API built following JSON API specification. inspired by Laravel’s Eloquent
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
@@ -1831,7 +1831,7 @@
 - [ARCANEDEV/LogViewer](https://github.com/ARCANEDEV/LogViewer) - :page_with_curl: Provides a log viewer for Laravel
 - [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel
 - [akaunting/laravel-money](https://github.com/akaunting/laravel-money) - Currency formatting and conversion package for Laravel
-- [akaunting/akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software
+- [akaunting/akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
 - [lukepolo/laracart](https://github.com/lukepolo/laracart) - Laravel Shopping Cart Package
 - [spatie/laravel-binary-uuid](https://github.com/spatie/laravel-binary-uuid) - Optimised binary UUIDs in Laravel
 - [nahidulhasan/laravel-gentelella](https://github.com/nahidulhasan/laravel-gentelella) - Laravel with Gentelella admin template for developing Laravel applications
@@ -2796,7 +2796,7 @@
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [moneyphp/money](https://github.com/moneyphp/money) - PHP implementation of Fowler's Money pattern.
 - [akaunting/laravel-money](https://github.com/akaunting/laravel-money) - Currency formatting and conversion package for Laravel
-- [akaunting/akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software
+- [akaunting/akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
 - [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) - 🕷 CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent
 - [Needlworks/Textcube](https://github.com/Needlworks/Textcube) - Textcube : Brand yourself!  / Personalized web publishing platform with multi-user support
 - [ongr-io/ElasticsearchDSL](https://github.com/ongr-io/ElasticsearchDSL) - Query DSL library for Elasticsearch
