@@ -514,7 +514,7 @@
 - [HVF/franchise](https://github.com/HVF/franchise) - 🍟 a notebook sql client. what you get when have a lot of sequels.
 - [mplewis/src2png](https://github.com/mplewis/src2png) - 📸💻 Turn your source code into beautiful syntax-highlighted images.
 - [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
-- [aimeos/aimeos](https://github.com/aimeos/aimeos) - Integrated online shop based on Laravel 9 and the Aimeos e-commerce framework for ultra-fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
+- [aimeos/aimeos](https://github.com/aimeos/aimeos) - Integrated online shop based on Laravel 10 and the Aimeos e-commerce framework for ultra-fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
 - [nitin42/react-imgpro](https://github.com/nitin42/react-imgpro) - 📷  Image Processing Component for React
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [mikeal/r2](https://github.com/mikeal/r2) - HTTP client. Spiritual successor to request.
@@ -615,7 +615,6 @@
 - [oliviertassinari/a-journey-toward-better-style](https://github.com/oliviertassinari/a-journey-toward-better-style) - A Journey toward better style
 - [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser with nesting support
 - [bvaughn/redux-search](https://github.com/bvaughn/redux-search) - Redux bindings for client-side search
-- [paypal/accessible-html5-video-player](https://github.com/paypal/accessible-html5-video-player) - Accessible HTML5 Video Player
 - [chvin/react-tetris](https://github.com/chvin/react-tetris) - Use React, Redux, Immutable to code Tetris. 🎮
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
