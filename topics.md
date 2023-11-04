@@ -156,6 +156,7 @@
 - [package-manager](#package-manager)
 - [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
+- [pentesting](#pentesting)
 - [perl](#perl)
 - [php](#php)
 - [postgresql](#postgresql)
@@ -2313,6 +2314,7 @@
 
 ## others 
 
+- [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts
 - [srvrco/checkssl](https://github.com/srvrco/checkssl) - checks ssl certs for a set of domains
 - [srvrco/getssl](https://github.com/srvrco/getssl) - obtain free SSL certificates from letsencrypt ACME server  Suitable for automating the process on remote servers.
 - [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
@@ -2349,7 +2351,6 @@
 - [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - 
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
 - [Crowd9/Benchmark](https://github.com/Crowd9/Benchmark) - 
-- [heroku/heroku-buildpack-php](https://github.com/heroku/heroku-buildpack-php) - The official PHP buildpack for Heroku.
 - [xroche/httrack](https://github.com/xroche/httrack) - HTTrack Website Copier, copy websites to your computer (Official repository)
 - [zeque92/RealTime3DwithPython](https://github.com/zeque92/RealTime3DwithPython) - Real time 3D vector graphics with Python, old skool Amiga Demo style.
 - [jgraph/mxgraph-php](https://github.com/jgraph/mxgraph-php) - PHP backend model for mxGraph
@@ -2780,6 +2781,10 @@
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
+## pentesting 
+
+- [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
+
 ## perl 
 
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
@@ -2799,6 +2804,7 @@
 - [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5/6/7/8/9/10
 - [lucidarch/laravel](https://github.com/lucidarch/laravel) - [DEPRECATED] See https://github.com/lucidarch/lucid
 - [hxseven/htmlSQL](https://github.com/hxseven/htmlSQL) - htmlSQL is a experimental PHP library which allows you to access HTML values by an SQL like syntax.
+- [heroku/heroku-buildpack-php](https://github.com/heroku/heroku-buildpack-php) - Heroku's buildpack for PHP applications.
 - [cybercog/youtrack-rest-php](https://github.com/cybercog/youtrack-rest-php) - JetBrains YouTrack REST API PHP Client
 - [cybercog/php-contracts-weblog](https://github.com/cybercog/php-contracts-weblog) - Сontracts for the framework agnostic Blog development.
 - [mike42/escpos-php](https://github.com/mike42/escpos-php) - PHP library for printing to ESC/POS-compatible thermal and impact printers
