@@ -900,7 +900,7 @@
 ## PHP 
 
 - [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 78 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 79 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
 - [ans-group/laravel-health-check](https://github.com/ans-group/laravel-health-check) - A package for checking the health of your Laravel & Lumen applications
 - [hisorange/browser-detect](https://github.com/hisorange/browser-detect) - Browser Detection for Laravel by hisorange!
 - [spatie/image-optimizer](https://github.com/spatie/image-optimizer) - Easily optimize images using PHP
@@ -1169,6 +1169,7 @@
 
 ## Python 
 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Nearoo/pygame-text-input](https://github.com/Nearoo/pygame-text-input) - a small module that enables you to input text with your keyboard using pygame
@@ -1389,6 +1390,7 @@
 
 ## TypeScript 
 
+- [jyjblrd/Mocap-Drones](https://github.com/jyjblrd/Mocap-Drones) - Low cost motion capture system for room scale tracking
 - [thenewboston-blockchain/Account-Manager](https://github.com/thenewboston-blockchain/Account-Manager) - Account manager desktop application for thenewboston digital currency.
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 3.0.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
