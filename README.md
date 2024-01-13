@@ -49,6 +49,8 @@
 
 ## C 
 
+- [michaelrsweet/zipc](https://github.com/michaelrsweet/zipc) - Simple ZIP container writing "library"
+- [randy408/libspng](https://github.com/randy408/libspng) - Simple, modern libpng alternative
 - [megamarc/Tilengine](https://github.com/megamarc/Tilengine) - Free 2D graphics engine with raster effects for retro/classic style game development
 - [Sleen/FlexLayout](https://github.com/Sleen/FlexLayout) - an implementation of Flexbox(Flexible Box) layout algorithm
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
@@ -176,11 +178,12 @@
 
 ## Go 
 
+- [uber-go/mock](https://github.com/uber-go/mock) - GoMock is a mocking framework for the Go programming language.
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) - A Golang Job Scheduling Package.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
-- [kool-dev/kool](https://github.com/kool-dev/kool) - From local development to the cloud: development workflow made easy.
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
+- [kool-dev/kool](https://github.com/kool-dev/kool) - From local development to the cloud: web apps development with containers made easy.
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [tdewolff/canvas](https://github.com/tdewolff/canvas) - Cairo in Go: vector to raster, SVG, PDF, EPS, WASM, OpenGL, Gio, etc.
 - [rajveermalviya/go-webgpu](https://github.com/rajveermalviya/go-webgpu) - Go bindings for WebGPU, a safe & cross-platform GPU abstraction
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
@@ -205,7 +208,7 @@
 - [g3n/g3nd](https://github.com/g3n/g3nd) - G3N Game Engine Demo
 - [fogleman/gg](https://github.com/fogleman/gg) - Go Graphics - 2D rendering in Go with a simple API.
 - [faiface/gui](https://github.com/faiface/gui) - Super minimal, rock-solid foundation for concurrent GUI in Go.
-- [goki/gi](https://github.com/goki/gi) - A free and open source framework for building powerful, fast, and beautiful 2D and 3D GUIs that run on macOS, Windows, Linux, iOS, Android, and the web with a single pure Go codebase.
+- [goki/goki](https://github.com/goki/goki) - A free and open source framework for building powerful, fast, and beautiful 2D and 3D GUIs that run on macOS, Windows, Linux, iOS, Android, and the Web with a single pure Go codebase.
 - [srwiley/rasterx](https://github.com/srwiley/rasterx) - Rasterx is an SVG 2.0 path compliant rasterizer that can use either scany, the golang vector or a derivative of the freetype anti-aliaser.
 - [inkyblackness/imgui-go-examples](https://github.com/inkyblackness/imgui-go-examples) - Examples of Dear ImGui for Go
 - [inkyblackness/hacked](https://github.com/inkyblackness/hacked) - Graphical editor for System Shock 1 (1994 and compatible)
@@ -728,6 +731,7 @@
 
 ## Makefile 
 
+- [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [joaoventura/full-speed-python](https://github.com/joaoventura/full-speed-python) - Full Speed Python: a book for self-learners
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
@@ -917,8 +921,9 @@
 
 ## PHP 
 
+- [simonhamp/the-og](https://github.com/simonhamp/the-og) - A pure PHP OpenGraph Image Generator
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI
-- [tallstackui/tallstackui](https://github.com/tallstackui/tallstackui) - TALL Stack component library.
+- [tallstackui/tallstackui](https://github.com/tallstackui/tallstackui) - TallStackUI is a powerful suite of Blade components that elevate your workflow of Livewire applications.
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [FreeDSx/SNMP](https://github.com/FreeDSx/SNMP) - A Pure PHP SNMP Library.
 - [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts
@@ -1191,6 +1196,11 @@
 
 ## Python 
 
+- [embedchain/embedchain](https://github.com/embedchain/embedchain) - The Open Source RAG framework
+- [imoneoi/openchat](https://github.com/imoneoi/openchat) - OpenChat: Advancing Open-source Language Models with Imperfect Data
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
+- [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
+- [shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict) - Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
 - [dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
@@ -1415,10 +1425,10 @@
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [tomepel/Technical_Book_DL](https://github.com/tomepel/Technical_Book_DL) - This note presents in a technical though hopefully pedagogical way the three most common forms of neural network architectures: Feedforward, Convolutional and Recurrent.
 - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
-- [tuhdo/os01](https://github.com/tuhdo/os01) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
 
 ## TypeScript 
 
+- [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [eta-dev/eta](https://github.com/eta-dev/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [jyjblrd/Mocap-Drones](https://github.com/jyjblrd/Mocap-Drones) - Low cost motion capture system for room scale tracking
