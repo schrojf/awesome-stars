@@ -49,6 +49,7 @@
 
 ## C 
 
+- [smacker/go-tree-sitter](https://github.com/smacker/go-tree-sitter) - Golang bindings for tree-sitter https://github.com/tree-sitter/tree-sitter
 - [michaelrsweet/zipc](https://github.com/michaelrsweet/zipc) - Simple ZIP container writing "library"
 - [randy408/libspng](https://github.com/randy408/libspng) - Simple, modern libpng alternative
 - [megamarc/Tilengine](https://github.com/megamarc/Tilengine) - Free 2D graphics engine with raster effects for retro/classic style game development
@@ -103,6 +104,7 @@
 
 ## C++ 
 
+- [mlin/sqlite_zstd_vfs](https://github.com/mlin/sqlite_zstd_vfs) - SQLite3 extension for read/write storage compression with Zstandard
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [fifengine/fifengine](https://github.com/fifengine/fifengine) - FIFE is a multi-platform isometric game engine
 - [Gaius-Augustus/Augustus](https://github.com/Gaius-Augustus/Augustus) - Genome annotation with AUGUSTUS
@@ -178,6 +180,14 @@
 
 ## Go 
 
+- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+- [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
+- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
+- [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
+- [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
+- [hossein1376/grape](https://github.com/hossein1376/grape) - Modern, zero-dependency HTTP library for Go
+- [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
 - [uber-go/mock](https://github.com/uber-go/mock) - GoMock is a mocking framework for the Go programming language.
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) - A Golang Job Scheduling Package.
@@ -417,6 +427,7 @@
 
 ## JavaScript 
 
+- [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ NodeJS E-commerce Platform
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption.
@@ -552,7 +563,7 @@
 - [myheritage/UiZoo.js](https://github.com/myheritage/UiZoo.js) - Dynamic React components library 🦉
 - [laravel-mix/laravel-mix](https://github.com/laravel-mix/laravel-mix) - The power of webpack, distilled for the rest of us.
 - [arscan/encom-boardroom](https://github.com/arscan/encom-boardroom) - 📈 Web tribute to the Tron: Legacy Boardroom Scene
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (109 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [vercel/hazel](https://github.com/vercel/hazel) - Lightweight update server for Electron apps
 - [booleanhunter/ReactJS-AdminLTE](https://github.com/booleanhunter/ReactJS-AdminLTE) - ReactJS version of the original AdminLTE dashboard (EXPERIMENTAL)- https://github.com/almasaeed2010/AdminLTE
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
@@ -644,7 +655,7 @@
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [pavelk2/social-feed](https://github.com/pavelk2/social-feed) - JavaScript plugin that shows a user feed from the most popular social networks
 - [deepsyx/home-automation](https://github.com/deepsyx/home-automation) - Raspberry Pi 3 based home automation with NodeJS and React Native.
-- [skidding/illustrated-algorithms](https://github.com/skidding/illustrated-algorithms) - Interactive algorithm visualizations
+- [ovidiuch/illustrated-algorithms](https://github.com/ovidiuch/illustrated-algorithms) - Interactive algorithm visualizations
 - [felixrieseberg/React-Spreadsheet-Component](https://github.com/felixrieseberg/React-Spreadsheet-Component) - :clipboard: Spreadsheet Component for ReactJS
 - [google/mathsteps](https://github.com/google/mathsteps) - Step by step math solutions for everyone
 - [webslides/WebSlides](https://github.com/webslides/WebSlides) - Create HTML presentations in seconds —
@@ -714,7 +725,6 @@
 - [PAIR-code/facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
 - [coells/100days](https://github.com/coells/100days) - 100 days of algorithms
 - [REMitchell/python-scraping](https://github.com/REMitchell/python-scraping) - Code samples from the book Web Scraping with Python http://shop.oreilly.com/product/0636920034391.do
-- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
 - [pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer) - line drawing colorization using chainer
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
@@ -1202,6 +1212,9 @@
 
 ## Python 
 
+- [thombashi/SimpleSQLite](https://github.com/thombashi/SimpleSQLite) - SimpleSQLite is a Python library to simplify SQLite database operations: table creation, data insertion and get data as other data formats. Simple ORM functionality for SQLite.
+- [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
+- [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [scrapinghub/extruct](https://github.com/scrapinghub/extruct) - Extract embedded metadata from HTML markup
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - The Open Source RAG framework
 - [imoneoi/openchat](https://github.com/imoneoi/openchat) - OpenChat: Advancing Open-source Language Models with Imperfect Data
@@ -1292,6 +1305,7 @@
 - [astorfi/TensorFlow-World](https://github.com/astorfi/TensorFlow-World) - :earth_americas: Simple and ready-to-use tutorials for TensorFlow
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor) - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
+- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [mdipierro/nlib](https://github.com/mdipierro/nlib) - The book "Annotated Algorithms in Python" and the nlib.py library
 - [csujedihy/lc-all-solutions](https://github.com/csujedihy/lc-all-solutions) - My own leetcode solutions by python
 - [buckyroberts/Vataxia](https://github.com/buckyroberts/Vataxia) - Open source social network built with Django and Django REST framework
@@ -1361,6 +1375,7 @@
 
 ## Rust 
 
+- [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
@@ -1382,6 +1397,7 @@
 
 ## Shell 
 
+- [htpcBeginner/docker-traefik](https://github.com/htpcBeginner/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
 - [konstruktoid/hardening](https://github.com/konstruktoid/hardening) - Hardening Ubuntu. Systemd edition.
 - [srvrco/checkssl](https://github.com/srvrco/checkssl) - checks ssl certs for a set of domains
 - [srvrco/getssl](https://github.com/srvrco/getssl) - obtain free SSL certificates from letsencrypt ACME server  Suitable for automating the process on remote servers.
@@ -1437,6 +1453,7 @@
 
 ## TypeScript 
 
+- [unjs/nitro](https://github.com/unjs/nitro) - Create, build and deploy universal web servers. The open engine powering Nuxt and open to everyone.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A wrapper around YouTube's internal API — reverse engineering InnerTube
