@@ -25,7 +25,6 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
-- [Metal](#metal)
 - [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
@@ -198,7 +197,7 @@
 - [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) - A Golang Job Scheduling Package.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [kool-dev/kool](https://github.com/kool-dev/kool) - From local development to the cloud: web apps development with containers made easy.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [tdewolff/canvas](https://github.com/tdewolff/canvas) - Cairo in Go: vector to raster, SVG, PDF, EPS, WASM, OpenGL, Gio, etc.
 - [rajveermalviya/go-webgpu](https://github.com/rajveermalviya/go-webgpu) - Go bindings for WebGPU, a safe & cross-platform GPU abstraction
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
@@ -753,6 +752,7 @@
 ## Makefile 
 
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
+- [albertstarfield/alpaca-electron-zephyrine](https://github.com/albertstarfield/alpaca-electron-zephyrine) - Introducing Project Zephyrine: Elevating Your Interaction Plug and Play, and Employing GPU Acceleration within a Modernized Automata Local Graphical User Interface.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [joaoventura/full-speed-python](https://github.com/joaoventura/full-speed-python) - Full Speed Python: a book for self-learners
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
@@ -761,10 +761,6 @@
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-
-## Metal 
-
-- [albertstarfield/alpaca-electron-zephyrine](https://github.com/albertstarfield/alpaca-electron-zephyrine) - Introducing Project Zephyrine: Elevating Your Interaction Experience with LLM (LLaMa, LLaMA-2, Falcon), Harnessing the Power of GGML v2, GGML v3, GGUF, and Employing GPU Acceleration within a Moderniz
 
 ## Nunjucks 
 
@@ -1182,7 +1178,7 @@
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
 - [php-tmdb/api](https://github.com/php-tmdb/api) - PHP 7.3+ API Wrapper for The Movie Database
 - [Ticketpark/v11](https://github.com/Ticketpark/v11) - A php library to read ESR v11 files, Swiss banking payments (BESR/VESR/ESR - Einzahlungsscheine mit Referenznummer einlesen)
 - [webonyx/graphql-php](https://github.com/webonyx/graphql-php) - PHP implementation of the GraphQL specification based on the reference implementation in JavaScript
@@ -1219,7 +1215,7 @@
 
 ## Python 
 
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI.
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [PygmalionAI/aphrodite-engine](https://github.com/PygmalionAI/aphrodite-engine) - PygmalionAI's large-scale inference engine
 - [pranjalAI/labelImg](https://github.com/pranjalAI/labelImg) - 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images
 - [thombashi/SimpleSQLite](https://github.com/thombashi/SimpleSQLite) - SimpleSQLite is a Python library to simplify SQLite database operations: table creation, data insertion and get data as other data formats. Simple ORM functionality for SQLite.
@@ -1358,7 +1354,7 @@
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [Hironsan/BossSensor](https://github.com/Hironsan/BossSensor) - Hide screen when boss is approaching.
 - [fheinle/PyRoom](https://github.com/fheinle/PyRoom) - 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [ethan-funny/explore-python](https://github.com/ethan-funny/explore-python) - :green_book: The Beauty of Python Programming.
@@ -1465,7 +1461,7 @@
 ## TypeScript 
 
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
-- [unjs/nitro](https://github.com/unjs/nitro) - Create, build and deploy universal web servers. The open engine powering Nuxt and open to everyone.
+- [unjs/nitro](https://github.com/unjs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A wrapper around YouTube's internal API — reverse engineering InnerTube
@@ -1571,7 +1567,7 @@
 
 ## Vala 
 
-- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist support designed for GNU/Linux 🚀
+- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist and Nextcloud support designed for GNU/Linux 🚀
 
 ## Vim Script 
 
