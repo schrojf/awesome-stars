@@ -525,7 +525,6 @@
 - [dwijitsolutions/laraadmin-crm](https://github.com/dwijitsolutions/laraadmin-crm) - LaraAdmin is a Open source CRM for quick-start Admin based applications with features like Advanced CRUD Generation, Schema Manager and Workflows.
 - [developit/workerize](https://github.com/developit/workerize) - 🏗️ Run a module in a Web Worker.
 - [NervJS/nerv](https://github.com/NervJS/nerv) - A blazing fast React alternative, compatible with IE8 and React 16.
-- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [Syed-Umair/logger](https://github.com/Syed-Umair/logger) - Logger for Electron Applications
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
@@ -845,7 +844,7 @@
 - [uanders/react-redux-cheatsheet](https://github.com/uanders/react-redux-cheatsheet) - React Redux Cheat Sheet on Workflow & Concept
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
 - [Web-Feet/coasterdock](https://github.com/Web-Feet/coasterdock) - A docker environment for getting up and running with Coaster CMS.
-- [SamPutnam/Index-2023](https://github.com/SamPutnam/Index-2023) - 
+- [SamPutnam/Index-2024](https://github.com/SamPutnam/Index-2024) - 
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
@@ -1381,6 +1380,7 @@
 
 ## Rust 
 
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -1500,6 +1500,7 @@
 - [brunnolou/react-morph](https://github.com/brunnolou/react-morph) - Morphing Ui transitions made simple
 - [nhn/tui.grid](https://github.com/nhn/tui.grid) - 🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
