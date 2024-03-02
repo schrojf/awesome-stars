@@ -622,6 +622,7 @@
 
 ## cli 
 
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI
@@ -1865,7 +1866,6 @@
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [angular/material](https://github.com/angular/material) - Material design for AngularJS
 
 ## jekyll 
@@ -2791,7 +2791,7 @@
 - [Web-Feet/coasterdock](https://github.com/Web-Feet/coasterdock) - A docker environment for getting up and running with Coaster CMS.
 - [REMitchell/python-scraping](https://github.com/REMitchell/python-scraping) - Code samples from the book Web Scraping with Python http://shop.oreilly.com/product/0636920034391.do
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
-- [SamPutnam/Index-2023](https://github.com/SamPutnam/Index-2023) - 
+- [SamPutnam/Index-2024](https://github.com/SamPutnam/Index-2024) - 
 - [mdipierro/nlib](https://github.com/mdipierro/nlib) - The book "Annotated Algorithms in Python" and the nlib.py library
 - [csujedihy/lc-all-solutions](https://github.com/csujedihy/lc-all-solutions) - My own leetcode solutions by python
 - [JesseObrien/laravel-cheatsheet](https://github.com/JesseObrien/laravel-cheatsheet) - Laravel Cheat Sheet
@@ -3494,6 +3494,7 @@
 
 ## rust 
 
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
@@ -3704,6 +3705,7 @@
 
 ## terminal 
 
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [VladimirMarkelov/clui](https://github.com/VladimirMarkelov/clui) - Command Line User Interface (Console UI inspired by TurboVision)
@@ -3785,7 +3787,6 @@
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 
 ## ubuntu 
 
