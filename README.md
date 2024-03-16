@@ -84,7 +84,6 @@
 - [begeekmyfriend/leetcode](https://github.com/begeekmyfriend/leetcode) - LeetCode in pure C
 - [seclab-ucr/INTANG](https://github.com/seclab-ucr/INTANG) - 
 - [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
-- [google-ar/arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk) - ARCore SDK for Android Studio
 - [rip1s/vmware_escape](https://github.com/rip1s/vmware_escape) - VMware Escape Exploit before VMware WorkStation 12.5.5
 - [lcastelli/chdb](https://github.com/lcastelli/chdb) - A fast read-only memory mapped hash-table for PHP
 - [MinhasKamal/CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes
@@ -105,6 +104,7 @@
 
 - [mlin/sqlite_zstd_vfs](https://github.com/mlin/sqlite_zstd_vfs) - SQLite3 extension for read/write storage compression with Zstandard
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [fifengine/fifengine](https://github.com/fifengine/fifengine) - FIFE is a multi-platform isometric game engine
 - [Gaius-Augustus/Augustus](https://github.com/Gaius-Augustus/Augustus) - Genome annotation with AUGUSTUS
 - [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - 
@@ -126,6 +126,7 @@
 - [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
 - [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
 - [openalpr/openalpr](https://github.com/openalpr/openalpr) - Automatic License Plate Recognition library
+- [google-ar/arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk) - ARCore SDK for Android Studio
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [mbasso/asm-dom](https://github.com/mbasso/asm-dom) - A minimal WebAssembly virtual DOM to build C++ SPA (Single page applications)
 - [Axosoft/nsfw](https://github.com/Axosoft/nsfw) - A super fast and scaleable file watcher that provides a consistent interface on Linux, OSX and Windows
@@ -197,7 +198,6 @@
 - [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) - A Golang Job Scheduling Package.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [kool-dev/kool](https://github.com/kool-dev/kool) - From local development to the cloud: web apps development with containers made easy.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [tdewolff/canvas](https://github.com/tdewolff/canvas) - Cairo in Go: vector to raster, SVG, PDF, EPS, WASM, OpenGL, Gio, etc.
 - [rajveermalviya/go-webgpu](https://github.com/rajveermalviya/go-webgpu) - Go bindings for WebGPU, a safe & cross-platform GPU abstraction
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
@@ -1219,10 +1219,10 @@
 - [PygmalionAI/aphrodite-engine](https://github.com/PygmalionAI/aphrodite-engine) - PygmalionAI's large-scale inference engine
 - [pranjalAI/labelImg](https://github.com/pranjalAI/labelImg) - 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images
 - [thombashi/SimpleSQLite](https://github.com/thombashi/SimpleSQLite) - SimpleSQLite is a Python library to simplify SQLite database operations: table creation, data insertion and get data as other data formats. Simple ORM functionality for SQLite.
-- [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
+- [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [scrapinghub/extruct](https://github.com/scrapinghub/extruct) - Extract embedded metadata from HTML markup
-- [embedchain/embedchain](https://github.com/embedchain/embedchain) - The Open Source RAG framework
+- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses
 - [imoneoi/openchat](https://github.com/imoneoi/openchat) - OpenChat: Advancing Open-source Language Models with Imperfect Data
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
@@ -1373,7 +1373,7 @@
 
 - [puppetlabs/puppetlabs-mysql](https://github.com/puppetlabs/puppetlabs-mysql) - MySQL Puppet Module / Manifests + Types & Providers
 - [slovensko-digital/navody.digital](https://github.com/slovensko-digital/navody.digital) - 
-- [postalserver/postal](https://github.com/postalserver/postal) - ✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [RichardLitt/awesome-conferences](https://github.com/RichardLitt/awesome-conferences) - :ticket: A list of awesome conferences
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
