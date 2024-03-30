@@ -699,7 +699,7 @@
 
 - [mv-lab/InstructIR](https://github.com/mv-lab/InstructIR) - InstructIR: High-Quality Image Restoration Following Human Instructions https://huggingface.co/spaces/marcosv/InstructIR
 - [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
-- [jyjblrd/Mocap-Drones](https://github.com/jyjblrd/Mocap-Drones) - Low cost motion capture system for room scale tracking
+- [jyjblrd/Low-Cost-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap) - Low cost motion capture system for room scale tracking
 - [GauravBh1010tt/DeepLearn](https://github.com/GauravBh1010tt/DeepLearn) - Implementation of research papers on Deep Learning+ NLP+ CV in Python using Keras, Tensorflow and Scikit Learn.
 - [zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) - A MNIST-like fashion product database. Benchmark :point_down:
 - [astorfi/TensorFlow-World](https://github.com/astorfi/TensorFlow-World) - :earth_americas: Simple and ready-to-use tutorials for TensorFlow
@@ -1516,7 +1516,6 @@
 - [auraphp/Aura.Auth](https://github.com/auraphp/Aura.Auth) - Provides a unified interface to local and remote authentication systems.
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) - 🕷 CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent
-- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [gostor/awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
 - [Netflix-Skunkworks/stethoscope-app](https://github.com/Netflix-Skunkworks/stethoscope-app) - A desktop application that checks security-related settings and makes recommendations for improvements without requiring central device management or automated reporting.
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
@@ -2127,7 +2126,7 @@
 
 ## localization 
 
-- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
 - [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
 
 ## low-code 
