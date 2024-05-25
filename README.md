@@ -980,7 +980,7 @@
 - [FriendsOfCake/crud](https://github.com/FriendsOfCake/crud) - Production-grade rapid controller development with built in love for API and Search
 - [aws-samples/aws-refarch-wordpress](https://github.com/aws-samples/aws-refarch-wordpress) - This reference architecture provides best practices and a set of YAML CloudFormation templates for deploying WordPress on AWS.
 - [graphaware/neo4j-php-client](https://github.com/graphaware/neo4j-php-client) - PHP Client for Neo4j with Enterprise Support
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 86 file formats in 13 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 88 file formats in 13 languages.
 - [zelon88/HRCloud2](https://github.com/zelon88/HRCloud2) - A full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool & More!
 - [aimeos/ai-client-html](https://github.com/aimeos/ai-client-html) - Aimeos e-commerce HTML client components
 - [amsgames/laravel-shop-gateway-paypal](https://github.com/amsgames/laravel-shop-gateway-paypal) - PayPal Gateway for Laravel Shop.
