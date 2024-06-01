@@ -583,7 +583,7 @@
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 - [jschr/electron-react-redux-boilerplate](https://github.com/jschr/electron-react-redux-boilerplate) - A minimal boilerplate to get started with Electron, React and Redux.
 - [stampit-org/stampit](https://github.com/stampit-org/stampit) - OOP is better with stamps: Composable object factories.
-- [chrispsn/mesh](https://github.com/chrispsn/mesh) - Visualise data and edit JavaScript code using a spreadsheet interface.
+- [chrispsn/mesh](https://github.com/chrispsn/mesh) - Old version. Visualise data and edit JavaScript code using a spreadsheet interface.
 - [xori/gamblers-dice](https://github.com/xori/gamblers-dice) - A terrible idea, now real.
 - [kbrsh/wade](https://github.com/kbrsh/wade) - :ocean: Blazing fast 1kb search library
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
@@ -1567,7 +1567,7 @@
 - [appbaseio/mirage](https://github.com/appbaseio/mirage) - :art: GUI for simplifying Elasticsearch Query DSL
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
-- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+- [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
 
