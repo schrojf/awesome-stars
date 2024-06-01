@@ -1807,7 +1807,7 @@
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 - [thejsway/thejsway](https://github.com/thejsway/thejsway) - The JavaScript Way book
 - [stampit-org/stampit](https://github.com/stampit-org/stampit) - OOP is better with stamps: Composable object factories.
-- [chrispsn/mesh](https://github.com/chrispsn/mesh) - Visualise data and edit JavaScript code using a spreadsheet interface.
+- [chrispsn/mesh](https://github.com/chrispsn/mesh) - Old version. Visualise data and edit JavaScript code using a spreadsheet interface.
 - [gpujs/gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
 - [azat-co/practicalnode](https://github.com/azat-co/practicalnode) - Practical Node.js, 1st and 2nd Editions [Apress] 📓
 - [jaredreich/pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies
@@ -2945,7 +2945,7 @@
 - [Coder-Spirit/Jupyter-PHP-Installer](https://github.com/Coder-Spirit/Jupyter-PHP-Installer) - An installer for Jupyter-PHP
 - [PhiloNL/Laravel-Blade](https://github.com/PhiloNL/Laravel-Blade) - Use the simple and yet powerful Laravel Blade templating engine as a standalone component.
 - [IsraelOrtuno/Eavquent](https://github.com/IsraelOrtuno/Eavquent) - EAV modeling package for Laravel and Eloquent – This package is abandoned, please use this fork https://github.com/rinvex/attributes
-- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+- [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [okulbilisim/awesome-big-o](https://github.com/okulbilisim/awesome-big-o) - A curated list of awesome materials about Big O notation
 - [auchenberg/awesome-front-end-curriculum](https://github.com/auchenberg/awesome-front-end-curriculum) - A crowd sourced curriculum of mandatory material for new front-end devs.
 - [kevindeasis/awesome-fullstack](https://github.com/kevindeasis/awesome-fullstack) - ¯\_(ツ)_/¯ Learn to code: curated list to learn full stack. Includes learning materials and other resources~
