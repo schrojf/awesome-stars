@@ -337,7 +337,7 @@
 - [rgburke/grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
 - [contribsys/faktory](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server
 - [gravitational/workshop](https://github.com/gravitational/workshop) - Docker, Kubernetes and Gravity Trainings by Gravitational
-- [git-town/git-town](https://github.com/git-town/git-town) - Additional Git commands for easier branch management and support for stacked changes
+- [git-town/git-town](https://github.com/git-town/git-town) - Git branch management automation
 - [kashav/fsql](https://github.com/kashav/fsql) - Search for files using a fun query language
 - [igrigorik/ga-beacon](https://github.com/igrigorik/ga-beacon) - Google Analytics collector-as-a-service (using GA measurement protocol).
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
