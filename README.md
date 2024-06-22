@@ -54,7 +54,6 @@
 - [randy408/libspng](https://github.com/randy408/libspng) - Simple, modern libpng alternative
 - [megamarc/Tilengine](https://github.com/megamarc/Tilengine) - Free 2D graphics engine with raster effects for retro/classic style game development
 - [Sleen/FlexLayout](https://github.com/Sleen/FlexLayout) - an implementation of Flexbox(Flexible Box) layout algorithm
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [Keriew/augustus](https://github.com/Keriew/augustus) - An open source re-implementation of Caesar III
 - [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
 - [xroche/httrack](https://github.com/xroche/httrack) - HTTrack Website Copier, copy websites to your computer (Official repository)
@@ -445,6 +444,7 @@
 - [kentcdodds/old-kentcdodds.com](https://github.com/kentcdodds/old-kentcdodds.com) - Kent's Homepage
 - [BlinkID/blinkid-react-native](https://github.com/BlinkID/blinkid-react-native) - ID scanning for cross-platform apps built with ReactNative.
 - [tailwindlabs/tailwindcss-from-zero-to-production](https://github.com/tailwindlabs/tailwindcss-from-zero-to-production) - Source code for the "Tailwind CSS Up and Running" screencast series.
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [for-GET/http-decision-diagram](https://github.com/for-GET/http-decision-diagram) - An activity diagram to describe the resolution of HTTP response status codes, given various headers.
 - [microsoft/is-social](https://github.com/microsoft/is-social) - Validators for social media profiles.
 - [apify/actor-scraper](https://github.com/apify/actor-scraper) - House of Apify Scrapers. Generic scraping actors with a simple UI to handle complex web crawling and scraping use cases.
@@ -467,7 +467,6 @@
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
 - [ondras/wwwsqldesigner](https://github.com/ondras/wwwsqldesigner) - WWW SQL Designer, your online SQL diagramming tool
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
-- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
@@ -1461,7 +1460,7 @@
 
 ## Thrift 
 
-- [apache/parquet-format](https://github.com/apache/parquet-format) - Apache Parquet
+- [apache/parquet-format](https://github.com/apache/parquet-format) - Apache Parquet Format
 
 ## TypeScript 
 
@@ -1486,6 +1485,7 @@
 - [flyover/imgui-js](https://github.com/flyover/imgui-js) - JavaScript bindings for Dear ImGui using Emscripten and TypeScript
 - [avored/laravel-ecommerce](https://github.com/avored/laravel-ecommerce) - AvoRed an Open Source Laravel Shopping Cart
 - [bwiklund/gamepad.js](https://github.com/bwiklund/gamepad.js) - Web browser Gamepad API tester
+- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [Shopify/polaris](https://github.com/Shopify/polaris) - Shopify’s design system to help us work together to build a great experience for all of our merchants.
 - [projectstorm/react-workspaces](https://github.com/projectstorm/react-workspaces) - The ultimate react workspace and panel management system for ambitious web apps
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
