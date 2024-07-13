@@ -245,7 +245,7 @@
 
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
-- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Memory for AI agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Long-term memory for LLMs
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-Platform Package Manager for Stable Diffusion
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -372,6 +372,7 @@
 
 ## automation 
 
+- [albertstarfield/project-zephyrine](https://github.com/albertstarfield/project-zephyrine) - Introducing Project Zephyrine: Elevating Your Interaction Plug and Play, and Employing GPU Acceleration within a Modernized Automata Local Graphical User Interface.
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [draftdev/startup-marketing-checklist](https://github.com/draftdev/startup-marketing-checklist) - A checklist of tactics for marketing your startup.
@@ -601,7 +602,7 @@
 
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
-- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Memory for AI agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Long-term memory for LLMs
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [albertstarfield/project-zephyrine](https://github.com/albertstarfield/project-zephyrine) - Introducing Project Zephyrine: Elevating Your Interaction Plug and Play, and Employing GPU Acceleration within a Modernized Automata Local Graphical User Interface.
 
@@ -965,6 +966,7 @@
 
 ## docker 
 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [anandslab/docker-traefik](https://github.com/anandslab/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
@@ -1500,6 +1502,7 @@
 
 ## hacktoberfest 
 
+- [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [konstruktoid/hardening](https://github.com/konstruktoid/hardening) - Hardening Ubuntu. Systemd edition.
 - [scrapinghub/extruct](https://github.com/scrapinghub/extruct) - Extract embedded metadata from HTML markup
@@ -1712,6 +1715,7 @@
 
 ## java 
 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
@@ -2142,7 +2146,7 @@
 ## llm 
 
 - [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
-- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Memory for AI agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Long-term memory for LLMs
 - [dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
@@ -3224,7 +3228,7 @@
 ## python 
 
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
-- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Memory for AI agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Long-term memory for LLMs
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
 - [miso-belica/sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages.
