@@ -200,7 +200,7 @@
 - [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) - A Golang Job Scheduling Package.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [kool-dev/kool](https://github.com/kool-dev/kool) - From local development to the cloud: web apps development with containers made easy.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [tdewolff/canvas](https://github.com/tdewolff/canvas) - Cairo in Go: vector to raster, SVG, PDF, EPS, WASM, OpenGL, Gio, etc.
 - [rajveermalviya/go-webgpu](https://github.com/rajveermalviya/go-webgpu) - Go bindings for WebGPU, a safe & cross-platform GPU abstraction
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
@@ -225,7 +225,7 @@
 - [g3n/g3nd](https://github.com/g3n/g3nd) - G3N Game Engine Demo
 - [fogleman/gg](https://github.com/fogleman/gg) - Go Graphics - 2D rendering in Go with a simple API.
 - [faiface/gui](https://github.com/faiface/gui) - Super minimal, rock-solid foundation for concurrent GUI in Go.
-- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, and elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single Go codebase, allowing you to Code On
+- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single Go codebase, allowing you to Code Once, 
 - [srwiley/rasterx](https://github.com/srwiley/rasterx) - Rasterx is an SVG 2.0 path compliant rasterizer that can use either scany, the golang vector or a derivative of the freetype anti-aliaser.
 - [inkyblackness/imgui-go-examples](https://github.com/inkyblackness/imgui-go-examples) - Examples of Dear ImGui for Go
 - [inkyblackness/hacked](https://github.com/inkyblackness/hacked) - Graphical editor for System Shock 1 (1994 and compatible)
