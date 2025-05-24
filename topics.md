@@ -223,6 +223,7 @@
 - [svelte](#svelte)
 - [swift](#swift)
 - [symfony](#symfony)
+- [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
@@ -234,6 +235,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [ui-design](#ui-design)
 - [vagrant](#vagrant)
 - [vim](#vim)
@@ -262,7 +264,7 @@
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-Platform Package Manager for Stable Diffusion
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -310,7 +312,7 @@
 ## android 
 
 - [BlinkID/blinkid-react-native](https://github.com/BlinkID/blinkid-react-native) - ID scanning for cross-platform apps built with ReactNative.
-- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single Go codebase, allowing you to Code Once, 
+- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run 
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -388,6 +390,7 @@
 
 ## atom 
 
+- [macieklamberski/feedsmith](https://github.com/macieklamberski/feedsmith) - Robust and fast parser and generator for RSS, Atom, JSON Feed, and RDF feeds, with support for Podcast, iTunes, Dublin Core, and OPML files.
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [atom/teletype](https://github.com/atom/teletype) - Share your workspace with team members and collaborate on code in real time in Atom
 - [simplepie/simplepie](https://github.com/simplepie/simplepie) - A simple Atom/RSS parsing library for PHP.
@@ -646,7 +649,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [albertstarfield/project-zephyrine](https://github.com/albertstarfield/project-zephyrine) - Introducing Project Zephyrine: Elevating Your Interaction Plug and Play, and Employing GPU Acceleration within a Modernized Automata Local Graphical User Interface.
 
@@ -674,6 +677,7 @@
 
 ## cli 
 
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -751,6 +755,7 @@
 
 ## computer-vision 
 
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [mv-lab/InstructIR](https://github.com/mv-lab/InstructIR) - [ECCV 2024] InstructIR: High-Quality Image Restoration Following Human Instructions https://huggingface.co/spaces/marcosv/InstructIR
 - [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO.
@@ -937,6 +942,7 @@
 
 ## deep-learning 
 
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 - [mv-lab/InstructIR](https://github.com/mv-lab/InstructIR) - [ECCV 2024] InstructIR: High-Quality Image Restoration Following Human Instructions https://huggingface.co/spaces/marcosv/InstructIR
 - [dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
 - [google-research/retvec](https://github.com/google-research/retvec) - RETVec is an efficient, multilingual, and adversarially-robust text vectorizer.
@@ -1099,7 +1105,7 @@
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 ## electron 
 
@@ -1227,7 +1233,7 @@
 
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single Go codebase, allowing you to Code Once, 
+- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run 
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony
@@ -1364,7 +1370,7 @@
 - [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
 - [g3n/g3nd](https://github.com/g3n/g3nd) - G3N Game Engine Demo
 - [fogleman/gg](https://github.com/fogleman/gg) - Go Graphics - 2D rendering in Go with a simple API.
-- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single Go codebase, allowing you to Code Once, 
+- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run 
 - [inkyblackness/imgui-go-examples](https://github.com/inkyblackness/imgui-go-examples) - Examples of Dear ImGui for Go
 - [inkyblackness/hacked](https://github.com/inkyblackness/hacked) - Graphical editor for System Shock 1 (1994 and compatible)
 - [inkyblackness/imgui-go](https://github.com/inkyblackness/imgui-go) - Go wrapper library for "Dear ImGui" (https://github.com/ocornut/imgui)
@@ -1464,7 +1470,7 @@
 - [gorgonia/cu](https://github.com/gorgonia/cu) - package cu provides an idiomatic interface to the CUDA Driver API.
 - [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
 - [g3n/g3nd](https://github.com/g3n/g3nd) - G3N Game Engine Demo
-- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single Go codebase, allowing you to Code Once, 
+- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run 
 - [srwiley/rasterx](https://github.com/srwiley/rasterx) - Rasterx is an SVG 2.0 path compliant rasterizer that can use either scany, the golang vector or a derivative of the freetype anti-aliaser.
 - [inkyblackness/imgui-go-examples](https://github.com/inkyblackness/imgui-go-examples) - Examples of Dear ImGui for Go
 - [inkyblackness/hacked](https://github.com/inkyblackness/hacked) - Graphical editor for System Shock 1 (1994 and compatible)
@@ -1502,7 +1508,7 @@
 - [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [go-ego/riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine; Warning: This is V1 and beta version, because of big memory consume, and the V2 will be rewrite all code.
-- [OrlovEvgeny/go-mcache](https://github.com/OrlovEvgeny/go-mcache) - Fast in-memory key:value store/cache with TTL
+- [OrlovEvgeny/go-mcache](https://github.com/OrlovEvgeny/go-mcache) - High-throughput, sharded in-memory KV cache for Go with minimal allocations
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
@@ -1621,7 +1627,6 @@
 - [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) - 🕷 CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent
 - [gostor/awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
 - [Netflix-Skunkworks/stethoscope-app](https://github.com/Netflix-Skunkworks/stethoscope-app) - A desktop application that checks security-related settings and makes recommendations for improvements without requiring central device management or automated reporting.
-- [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
 - [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
 - [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules) - Module Management In Laravel
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -1673,7 +1678,6 @@
 - [AsgardCms/Platform](https://github.com/AsgardCms/Platform) - A modular multilingual CMS built with Laravel 5.
 - [redux-offline/redux-offline](https://github.com/redux-offline/redux-offline) - Build Offline-First Apps for Web and React Native
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
@@ -1690,7 +1694,7 @@
 - [ExpediaGroup/cyclotron](https://github.com/ExpediaGroup/cyclotron) - A web platform for constructing dashboards.
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
 - [magento/magento2](https://github.com/magento/magento2) - Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affili
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
@@ -1798,7 +1802,7 @@
 ## ios 
 
 - [BlinkID/blinkid-react-native](https://github.com/BlinkID/blinkid-react-native) - ID scanning for cross-platform apps built with ReactNative.
-- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single Go codebase, allowing you to Code Once, 
+- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run 
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [Baddaboo/ClassicKit](https://github.com/Baddaboo/ClassicKit) - 💾 A collection of classic-style UI components for iOS
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
@@ -1862,7 +1866,7 @@
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
-- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full-text search library for Browser and Node.js
+- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
 - [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
@@ -1984,7 +1988,7 @@
 - [skx/bookmarks.public](https://github.com/skx/bookmarks.public) - A template for self-hosted bookmarks using HTML & jQuery.
 - [andrew--r/channels](https://github.com/andrew--r/channels) - 📺 A collection of useful YouTube channels for javascript developers and web designers
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
 - [microweber/microweber](https://github.com/microweber/microweber) - Drag and Drop Website Builder and CMS with E-commerce
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
@@ -2089,7 +2093,7 @@
 - [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
 - [spatie/laravel-activitylog](https://github.com/spatie/laravel-activitylog) - Log activity inside your Laravel app
 - [spatie/ray](https://github.com/spatie/ray) - Debug with Ray to fix problems faster
-- [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5/6/7/8/9/10/11/12
+- [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5+
 - [beyondcode/laravel-mailbox](https://github.com/beyondcode/laravel-mailbox) - Catch incoming emails in your Laravel application
 - [lucidarch/laravel](https://github.com/lucidarch/laravel) - [DEPRECATED] See https://github.com/lucidarch/lucid
 - [msztorc/laravel-starter](https://github.com/msztorc/laravel-starter) - Laravel starter - Ansible Provisioner not only for Vagrant
@@ -2222,7 +2226,7 @@
 
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
-- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single Go codebase, allowing you to Code Once, 
+- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run 
 - [zelon88/HRScan2](https://github.com/zelon88/HRScan2) - A self-hosted drag-and-drop, nosql yet fully-featured file-scanning server.
 - [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
@@ -2250,7 +2254,7 @@
 
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
 - [dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
@@ -2279,6 +2283,7 @@
 
 ## machine-learning 
 
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [mljs/ml](https://github.com/mljs/ml) - Machine learning tools in JavaScript
 - [aphrodite-engine/aphrodite-engine](https://github.com/aphrodite-engine/aphrodite-engine) - Large-scale LLM inference engine
@@ -2335,7 +2340,7 @@
 
 ## macos 
 
-- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single Go codebase, allowing you to Code Once, 
+- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run 
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 by @miguelmota
 - [chef/bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -2520,7 +2525,7 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
-- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full-text search library for Browser and Node.js
+- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
 - [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [sodium-friends/learntocrypto](https://github.com/sodium-friends/learntocrypto) - Learn to crypto workshop
@@ -2564,7 +2569,7 @@
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 ## nosql 
 
@@ -2600,7 +2605,7 @@
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform
 - [avored/laravel-ecommerce](https://github.com/avored/laravel-ecommerce) - AvoRed an Open Source Laravel Shopping Cart
 - [mhsabbagh/green-recorder](https://github.com/mhsabbagh/green-recorder) - A simple screen recorder for Linux desktop. Supports Wayland & Xorg
-- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full-text search library for Browser and Node.js
+- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
 - [kaiwaehner/kafka-streams-machine-learning-examples](https://github.com/kaiwaehner/kafka-streams-machine-learning-examples) - This project contains examples which demonstrate how to deploy analytic models to mission-critical, scalable production environments leveraging Apache Kafka and its Streams API. Models are built with 
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
@@ -2652,7 +2657,6 @@
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [nyaruka/phonenumbers](https://github.com/nyaruka/phonenumbers) - GoLang port of Google's libphonenumber library
-- [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - A self-hosted habit tracking app without "Goals"
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.
 - [janyksteenbeek/uppi](https://github.com/janyksteenbeek/uppi) - Uppi: A self-hosted robust uptime monitoring solution built with Laravel
 - [barryvdh/uppi](https://github.com/barryvdh/uppi) - Uppi: A self-hosted robust uptime monitoring solution built with Laravel
@@ -3009,7 +3013,6 @@
 - [solid/solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
 - [gurugio/book_assembly_8086](https://github.com/gurugio/book_assembly_8086) - Learn 16bit x86 Assembly with emulator
 - [mhink/react-ionize](https://github.com/mhink/react-ionize) - A React renderer for building your entire Electron app
-- [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
@@ -3113,7 +3116,7 @@
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [nolanlawson/hello-electron-with-pouchdb](https://github.com/nolanlawson/hello-electron-with-pouchdb) - Electron "hello world" with PouchDB
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [Khan/style-guides](https://github.com/Khan/style-guides) - Docs for the Organization
 
 ## p2p 
@@ -3166,7 +3169,7 @@
 - [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
 - [spatie/laravel-activitylog](https://github.com/spatie/laravel-activitylog) - Log activity inside your Laravel app
 - [spatie/ray](https://github.com/spatie/ray) - Debug with Ray to fix problems faster
-- [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5/6/7/8/9/10/11/12
+- [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5+
 - [lucidarch/laravel](https://github.com/lucidarch/laravel) - [DEPRECATED] See https://github.com/lucidarch/lucid
 - [hxseven/htmlSQL](https://github.com/hxseven/htmlSQL) - htmlSQL is a experimental PHP library which allows you to access HTML values by an SQL like syntax.
 - [heroku/heroku-buildpack-php](https://github.com/heroku/heroku-buildpack-php) - Heroku's classic buildpack for PHP applications.
@@ -3361,7 +3364,7 @@
 - [MinhasKamal/CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection) - A Nonsense Collection of Disgusting Codes
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 ## project-management 
 
@@ -3380,10 +3383,12 @@
 
 ## python 
 
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 - [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Lightweight Durable Python Workflows
+- [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - A self-hosted habit tracking app without "Goals"
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
 - [miso-belica/sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages.
@@ -3465,6 +3470,7 @@
 
 ## pytorch 
 
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 - [mv-lab/InstructIR](https://github.com/mv-lab/InstructIR) - [ECCV 2024] InstructIR: High-Quality Image Restoration Following Human Instructions https://huggingface.co/spaces/marcosv/InstructIR
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
@@ -3586,7 +3592,7 @@
 - [TeamWertarbyte/material-ui-chip-input](https://github.com/TeamWertarbyte/material-ui-chip-input) - A chip input field using Material-UI.
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
@@ -3738,7 +3744,7 @@
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [konstruktoid/hardening](https://github.com/konstruktoid/hardening) - Hardening Ubuntu. Systemd edition.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5/6/7/8/9/10/11/12
+- [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5+
 - [akaunting/laravel-firewall](https://github.com/akaunting/laravel-firewall) - Web Application Firewall (WAF) package for Laravel
 - [zelon88/HRCloud2](https://github.com/zelon88/HRCloud2) - A full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool & More!
 - [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
@@ -3916,6 +3922,12 @@
 - [php-pm/php-pm](https://github.com/php-pm/php-pm) - PPM is a process manager, supercharger and load balancer for modern PHP applications.
 - [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm) - The Official PHP MongoDB ORM/ODM
 
+## tailwind 
+
+- [nunomaduro/termwind](https://github.com/nunomaduro/termwind) - 🍃 In short, it's like Tailwind CSS, but for the PHP command-line applications.
+- [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
+- [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 3.0.
+
 ## tailwindcss 
 
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
@@ -4055,6 +4067,23 @@
 - [santoshbaggam/stacker](https://github.com/santoshbaggam/stacker) - Hassle-free server setup for Developers
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 
+## ui 
+
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
+- [inkyblackness/imgui-go-examples](https://github.com/inkyblackness/imgui-go-examples) - Examples of Dear ImGui for Go
+- [inkyblackness/imgui-go](https://github.com/inkyblackness/imgui-go) - Go wrapper library for "Dear ImGui" (https://github.com/ocornut/imgui)
+- [VladimirMarkelov/clui](https://github.com/VladimirMarkelov/clui) - Command Line User Interface (Console UI inspired by TurboVision)
+- [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
+- [DarkaOnLine/L5-Swagger](https://github.com/DarkaOnLine/L5-Swagger) - OpenApi or Swagger integration to Laravel
+- [akveo/kittenTricks](https://github.com/akveo/kittenTricks) - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
+- [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
+- [flexxui/flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python
+- [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
+- [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
+- [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
+
 ## ui-design 
 
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
@@ -4112,9 +4141,9 @@
 
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single Go codebase, allowing you to Code Once, 
+- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run 
 - [Kinto/kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities.
-- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full-text search library for Browser and Node.js
+- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
 - [projectstorm/react-workspaces](https://github.com/projectstorm/react-workspaces) - The ultimate react workspace and panel management system for ambitious web apps
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
@@ -4178,7 +4207,7 @@
 
 ## windows 
 
-- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single Go codebase, allowing you to Code Once, 
+- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run 
 - [zelon88/HRScan2](https://github.com/zelon88/HRScan2) - A self-hosted drag-and-drop, nosql yet fully-featured file-scanning server.
 - [chef/bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
