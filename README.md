@@ -68,7 +68,7 @@
 - [Keriew/augustus](https://github.com/Keriew/augustus) - An open source re-implementation of Caesar III
 - [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
 - [xroche/httrack](https://github.com/xroche/httrack) - HTTrack Website Copier, copy websites to your computer (Official repository)
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [airspy/airspyhf](https://github.com/airspy/airspyhf) - Code repository for AirspyHF+
 - [go-gl/gl](https://github.com/go-gl/gl) - Go bindings for OpenGL (generated via glow)
 - [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi
@@ -220,7 +220,7 @@
 - [nicksnyder/go-i18n](https://github.com/nicksnyder/go-i18n) - Translate your Go program into multiple languages.
 - [dromara/carbon](https://github.com/dromara/carbon) - A simple, semantic and developer-friendly  time  package for golang
 - [matchcase/TileEx](https://github.com/matchcase/TileEx) - A Tiling Pattern Extractor written in Go
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
@@ -234,7 +234,7 @@
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [kool-dev/kool](https://github.com/kool-dev/kool) - From local development to the cloud: web apps development with containers made easy.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
-- [tdewolff/canvas](https://github.com/tdewolff/canvas) - Cairo in Go: vector to raster, SVG, PDF, EPS, WASM, OpenGL, Gio, etc.
+- [tdewolff/canvas](https://github.com/tdewolff/canvas) - Vector graphics in Go
 - [rajveermalviya/go-webgpu](https://github.com/rajveermalviya/go-webgpu) - Go bindings for WebGPU, a safe & cross-platform GPU abstraction
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -469,6 +469,7 @@
 
 ## JavaScript 
 
+- [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - 🏝️ A CLI tool to replace and automate your daily web browser.
 - [sindresorhus/file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a file, stream, or data
 - [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
@@ -551,6 +552,7 @@
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 - [jezen/is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
+- [lubusIN/laravel-gymie](https://github.com/lubusIN/laravel-gymie) - 👨‍💻 Gym & Club Management System https://gymie.in
 - [ghostery/ghostery-extension](https://github.com/ghostery/ghostery-extension) - Ghostery Browser Extension for Firefox, Chrome, Opera, Edge and Safari
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [milroyfraser/sarala](https://github.com/milroyfraser/sarala) - Javascript library to communicate with RESTful API built following JSON API specification. inspired by Laravel’s Eloquent
@@ -750,7 +752,6 @@
 
 - [mv-lab/InstructIR](https://github.com/mv-lab/InstructIR) - [ECCV 2024] InstructIR: High-Quality Image Restoration Following Human Instructions https://huggingface.co/spaces/marcosv/InstructIR
 - [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
-- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [google-research/retvec](https://github.com/google-research/retvec) - RETVec is an efficient, multilingual, and adversarially-robust text vectorizer.
 - [yell/boltzmann-machines](https://github.com/yell/boltzmann-machines) - Boltzmann Machines in TensorFlow with examples
 - [zackthoutt/wine-deep-learning](https://github.com/zackthoutt/wine-deep-learning) - Exploring applications of deep learning to the world of wine
@@ -805,6 +806,7 @@
 
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - articles
 - [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
 - [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
@@ -971,6 +973,7 @@
 
 ## PHP 
 
+- [mydnic/volet](https://github.com/mydnic/volet) - An extensible customer feedback widget for Laravel
 - [spatie/laravel-mobile-pass](https://github.com/spatie/laravel-mobile-pass) - Generate mobile passes for iOS and Android
 - [WINBIGFOX/TimeScribe](https://github.com/WINBIGFOX/TimeScribe) - This repository offers a modern, flexible time tracking app for capturing and managing personal working hours. It operates offline, requires no sign-up, and is free and open source—ideal for anyone lo
 - [nunomaduro/termwind](https://github.com/nunomaduro/termwind) - 🍃 In short, it's like Tailwind CSS, but for the PHP command-line applications.
@@ -979,7 +982,7 @@
 - [janyksteenbeek/uppi](https://github.com/janyksteenbeek/uppi) - Uppi: A self-hosted robust uptime monitoring solution built with Laravel
 - [barryvdh/uppi](https://github.com/barryvdh/uppi) - Uppi: A self-hosted robust uptime monitoring solution built with Laravel
 - [simonhamp/the-og](https://github.com/simonhamp/the-og) - A pure PHP OpenGraph Image Generator
-- [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI
+- [php-tui/php-tui](https://github.com/php-tui/php-tui) - Make awesome console applications in PHP (port of Rust's Ratatui)
 - [tallstackui/tallstackui](https://github.com/tallstackui/tallstackui) - TallStackUI is a powerful suite of Blade components that elevate your workflow of Livewire applications.
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [FreeDSx/SNMP](https://github.com/FreeDSx/SNMP) - A Pure PHP SNMP Library.
@@ -1064,7 +1067,7 @@
 - [Smile-SA/elasticsuite](https://github.com/Smile-SA/elasticsuite) - Smile ElasticSuite - Magento 2 merchandising and search engine built on ElasticSearch
 - [remp2020/remp](https://github.com/remp2020/remp) - REMP - Reader's engagement and monetization platform. Set of open-source tools for publishers to engage with their audience. Repository is public mirror of our internal private repo.
 - [voten-co/voten](https://github.com/voten-co/voten) - The code that powers voten.co
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
 - [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 - [humhub/humhub](https://github.com/humhub/humhub) - HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
@@ -1088,7 +1091,6 @@
 - [spatie/async](https://github.com/spatie/async) - Easily run code asynchronously
 - [nicmart/Tree](https://github.com/nicmart/Tree) - A basic but flexible tree data structure for php and a fluent tree builder implementation.
 - [spatie/browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string
-- [lubusIN/laravel-gymie](https://github.com/lubusIN/laravel-gymie) - 👨‍💻 Gym & Club Management System https://gymie.in
 - [OwenMelbz/domain-enforcement](https://github.com/OwenMelbz/domain-enforcement) - Laravel 5+ Middleware to enforce a single domain on your application. e.g non-www. to www.
 - [OwenMelbz/Laravel-Stubs](https://github.com/OwenMelbz/Laravel-Stubs) - Easily store stubs for your project to reuse whenever needed.
 - [orchidsoftware/platform](https://github.com/orchidsoftware/platform) - Orchid is a @laravel package that allows for rapid application development of back-office applications, admin/user panels, and dashboards.
@@ -1191,7 +1193,7 @@
 - [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP
 - [clarkeash/doorman](https://github.com/clarkeash/doorman) - Limit access to your Laravel applications by using invite codes
 - [VIPnytt/SitemapParser](https://github.com/VIPnytt/SitemapParser) - XML Sitemap parser class compliant with the Sitemaps.org protocol.
-- [LaraPalCom/laravel-sitemap](https://github.com/LaraPalCom/laravel-sitemap) - Laravelium Sitemap generator for Laravel.
+- [RumenDamyanov/php-sitemap](https://github.com/RumenDamyanov/php-sitemap) - Framework-agnostic PHP package for generating sitemaps in XML, TXT, HTML, and Google News formats.
 - [microformats/php-mf2](https://github.com/microformats/php-mf2) - php-mf2 is a pure, generic microformats-2 parser for PHP. It makes HTML as easy to consume as JSON.
 - [simplepie/simplepie](https://github.com/simplepie/simplepie) - A simple Atom/RSS parsing library for PHP.
 - [Vinelab/RSS](https://github.com/Vinelab/RSS) - Simple RSS Client
@@ -1214,7 +1216,7 @@
 - [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
-- [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+- [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 - [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [php-tmdb/api](https://github.com/php-tmdb/api) - PHP 7.3+ API Wrapper for The Movie Database
@@ -1252,6 +1254,7 @@
 
 ## Python 
 
+- [beeware/toga](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit.
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 - [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Lightweight Durable Python Workflows
 - [awslabs/amazon-bedrock-agent-samples](https://github.com/awslabs/amazon-bedrock-agent-samples) - Example Jupyter notebooks 📓 and code scripts 💻 for using Amazon Bedrock Agents 🤖 and its functionalities
@@ -1264,7 +1267,7 @@
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [scrapinghub/extruct](https://github.com/scrapinghub/extruct) - Extract embedded metadata from HTML markup
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [imoneoi/openchat](https://github.com/imoneoi/openchat) - OpenChat: Advancing Open-source Language Models with Imperfect Data
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
@@ -1428,7 +1431,7 @@
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-- [shssoichiro/oxipng](https://github.com/shssoichiro/oxipng) - Multithreaded PNG optimizer written in Rust
+- [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
 - [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
 
 ## SCSS 
@@ -1589,7 +1592,7 @@
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
 - [google/tamperchrome](https://github.com/google/tamperchrome) - Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS).
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [ramonszo/zuck.js](https://github.com/ramonszo/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
