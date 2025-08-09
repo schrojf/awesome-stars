@@ -60,6 +60,7 @@
 
 ## C 
 
+- [ayufan/camera-streamer](https://github.com/ayufan/camera-streamer) - High-performance low-latency camera streamer for Raspberry PI's
 - [smacker/go-tree-sitter](https://github.com/smacker/go-tree-sitter) - Golang bindings for tree-sitter https://github.com/tree-sitter/tree-sitter
 - [michaelrsweet/zipc](https://github.com/michaelrsweet/zipc) - Simple ZIP container writing "library"
 - [randy408/libspng](https://github.com/randy408/libspng) - Simple, modern libpng alternative
@@ -189,6 +190,7 @@
 
 ## Elixir 
 
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [phoenixframework/firenest](https://github.com/phoenixframework/firenest) - 
 - [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 
@@ -202,6 +204,11 @@
 
 ## Go 
 
+- [jub0bs/cors](https://github.com/jub0bs/cors) - perhaps the best CORS middleware library for Go
+- [lrstanley/go-ytdlp](https://github.com/lrstanley/go-ytdlp) - yt-dlp cli bindings for Go
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+- [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
@@ -225,7 +232,7 @@
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
+- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
 - [hossein1376/grape](https://github.com/hossein1376/grape) - Modern, zero-dependency HTTP library for Go
@@ -235,7 +242,7 @@
 - [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) - A Golang Job Scheduling Package.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [kool-dev/kool](https://github.com/kool-dev/kool) - From local development to the cloud: web apps development with containers made easy.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [tdewolff/canvas](https://github.com/tdewolff/canvas) - Vector graphics in Go
 - [rajveermalviya/go-webgpu](https://github.com/rajveermalviya/go-webgpu) - Go bindings for WebGPU, a safe & cross-platform GPU abstraction
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
@@ -472,6 +479,7 @@
 
 ## JavaScript 
 
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [preactjs/preact-iso](https://github.com/preactjs/preact-iso) - Isomorphic utilities for Preact
 - [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - 🏝️ A CLI Tool to Automate Your Everyday Web Browser.
 - [sindresorhus/file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a file, stream, or data
@@ -976,6 +984,7 @@
 
 ## PHP 
 
+- [m1k1o/blog](https://github.com/m1k1o/blog) - Lightweight self-hosted facebook-styled PHP blog.
 - [mydnic/volet](https://github.com/mydnic/volet) - An extensible customer feedback widget for Laravel
 - [spatie/laravel-mobile-pass](https://github.com/spatie/laravel-mobile-pass) - Generate mobile passes for iOS and Android
 - [WINBIGFOX/TimeScribe](https://github.com/WINBIGFOX/TimeScribe) - This repository offers a modern, flexible time tracking app for capturing and managing personal working hours. It operates offline, requires no sign-up, and is free and open source—ideal for anyone lo
@@ -1257,11 +1266,13 @@
 
 ## Python 
 
+- [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+- [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 - [NanoNets/docext](https://github.com/NanoNets/docext) - An on-premises, OCR-free unstructured data extraction, markdown conversion and benchmarking toolkit. (https://idp-leaderboard.org/)
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [beeware/toga](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit.
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Lightweight Durable Python Workflows
 - [awslabs/amazon-bedrock-agent-samples](https://github.com/awslabs/amazon-bedrock-agent-samples) - Example Jupyter notebooks 📓 and code scripts 💻 for using Amazon Bedrock Agents 🤖 and its functionalities
 - [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - A self-hosted habit tracking app without "Goals"
@@ -1284,7 +1295,7 @@
 - [miso-belica/sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages.
 - [crabcamp/lexrank](https://github.com/crabcamp/lexrank) - LexRank algorithm for text summarization
 - [dorianbrown/rank_bm25](https://github.com/dorianbrown/rank_bm25) - A Collection of BM25 Algorithms in Python
-- [THUDM/CogVLM](https://github.com/THUDM/CogVLM) - a state-of-the-art-level open visual language model | 多模态预训练模型
+- [zai-org/CogVLM](https://github.com/zai-org/CogVLM) - a state-of-the-art-level open visual language model | 多模态预训练模型
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Nearoo/pygame-text-input](https://github.com/Nearoo/pygame-text-input) - a small module that enables you to input text with your keyboard using pygame
@@ -1442,7 +1453,6 @@
 
 ## SCSS 
 
-- [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [OfficeDev/office-ui-fabric-core](https://github.com/OfficeDev/office-ui-fabric-core) - The front-end CSS framework for building experiences for Office and Microsoft 365.
