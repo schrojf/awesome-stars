@@ -323,7 +323,7 @@
 
 ## analytics 
 
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Data-Centric Pipelines and Data Versioning
@@ -374,7 +374,7 @@
 
 ## api 
 
-- [rameshsunkara/go-rest-api-example](https://github.com/rameshsunkara/go-rest-api-example) - Enterprise ready REST API microservice in golang
+- [rameshsunkara/go-rest-api-example](https://github.com/rameshsunkara/go-rest-api-example) - Production-ready Go REST APIs without the enterprise bloat
 - [gulyasm/jsonui](https://github.com/gulyasm/jsonui) - jsonui is an interactive JSON explorer on your command line
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
@@ -411,7 +411,7 @@
 
 ## atom 
 
-- [macieklamberski/feedsmith](https://github.com/macieklamberski/feedsmith) - Fast, all‑in‑one JavaScript feed parser and generator for RSS, Atom, RDF, and JSON Feed, with support for popular namespaces and OPML files.
+- [macieklamberski/feedsmith](https://github.com/macieklamberski/feedsmith) - Fast, all‑in‑one JavaScript feed parser and generator for RSS, Atom, RDF, and JSON Feed, with support for popular namespaces and OPML.
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [atom/teletype](https://github.com/atom/teletype) - Share your workspace with team members and collaborate on code in real time in Atom
 - [simplepie/simplepie](https://github.com/simplepie/simplepie) - A simple Atom/RSS parsing library for PHP.
@@ -678,7 +678,7 @@
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- [albertstarfield/project-zephyrine](https://github.com/albertstarfield/project-zephyrine) - Project Zephyrine: Your personal experimental glass cockpit for the world of ideas. Let's take flight with a modern, locally-run automaton, using accelerated thought to navigate the both digital aethe
+- [albertstarfield/project-zephyrine](https://github.com/albertstarfield/project-zephyrine) - Project Zephyrine: Your experimental second hand for the world of ideas. Let's take a walk and flight with a modern, locally-run automaton, using accelerated thought to navigate the both digital aethe
 
 ## chatgpt-api 
 
@@ -1009,7 +1009,7 @@
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) - A package to backup your Laravel app
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
+- [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
 
@@ -1420,6 +1420,7 @@
 
 ## github 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [shurcooL/githubv4](https://github.com/shurcooL/githubv4) - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://docs.github.com/en/graphql).
@@ -1435,7 +1436,7 @@
 ## go 
 
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-- [rameshsunkara/go-rest-api-example](https://github.com/rameshsunkara/go-rest-api-example) - Enterprise ready REST API microservice in golang
+- [rameshsunkara/go-rest-api-example](https://github.com/rameshsunkara/go-rest-api-example) - Production-ready Go REST APIs without the enterprise bloat
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [jub0bs/cors](https://github.com/jub0bs/cors) - perhaps the best CORS middleware library for Go
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
@@ -1540,7 +1541,7 @@
 ## golang 
 
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-- [rameshsunkara/go-rest-api-example](https://github.com/rameshsunkara/go-rest-api-example) - Enterprise ready REST API microservice in golang
+- [rameshsunkara/go-rest-api-example](https://github.com/rameshsunkara/go-rest-api-example) - Production-ready Go REST APIs without the enterprise bloat
 - [peltho/tufw](https://github.com/peltho/tufw) - Terminal UI for ufw
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -1637,7 +1638,7 @@
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
-- [ro31337/libretaxi](https://github.com/ro31337/libretaxi) - Open source Uber #deleteuber
+- [ro31337/libretaxi](https://github.com/ro31337/libretaxi) - Open source Uber
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 
@@ -1694,6 +1695,7 @@
 
 ## hacktoberfest 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 An Electron app boilerplate with React 19, TypeScript 5, Tailwind 4, shadcn/ui, Electron Vite, Biome, GitHub Action releases and more.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -1795,7 +1797,7 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
+- [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [ExpediaGroup/cyclotron](https://github.com/ExpediaGroup/cyclotron) - A web platform for constructing dashboards.
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
@@ -1947,6 +1949,8 @@
 
 ## javascript 
 
+- [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
+- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - 🏝️ A CLI Tool to Automate Your Everyday Web Browser.
 - [sindresorhus/file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a file, stream, or data
@@ -2097,7 +2101,7 @@
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
+- [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [skx/bookmarks.public](https://github.com/skx/bookmarks.public) - A template for self-hosted bookmarks using HTML & jQuery.
 - [andrew--r/channels](https://github.com/andrew--r/channels) - 📺 A collection of useful YouTube channels for javascript developers and web designers
@@ -2187,26 +2191,28 @@
 ## language 
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 128 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [akaunting/laravel-language](https://github.com/akaunting/laravel-language) - Language switcher package for Laravel
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
 
 ## languages 
 
+- [antonioribeiro/countries](https://github.com/antonioribeiro/countries) - Laravel countries and currencies
 - [io238/laravel-iso-countries](https://github.com/io238/laravel-iso-countries) - Ready-to-use Laravel models and relations for country (ISO 3166),  language (ISO 639-1), and currency (ISO 4217) information with multi-language support.
 - [algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive) - A collaborative book on algorithms
 
 ## laravel 
 
-- [mydnic/volet](https://github.com/mydnic/volet) - An extensible customer feedback widget for Laravel
+- [antonioribeiro/countries](https://github.com/antonioribeiro/countries) - Laravel countries and currencies
+- [mydnic/volet](https://github.com/mydnic/volet) - Extensible customer feedback widget for Laravel
 - [spatie/laravel-mobile-pass](https://github.com/spatie/laravel-mobile-pass) - Generate mobile passes for iOS and Android
 - [WINBIGFOX/TimeScribe](https://github.com/WINBIGFOX/TimeScribe) - This repository offers a modern, flexible time tracking app for capturing and managing personal working hours. It operates offline, requires no sign-up, and is free and open source—ideal for anyone lo
 - [swiss-devjoy/laravel-optimize-sqlite](https://github.com/swiss-devjoy/laravel-optimize-sqlite) - Optimize your SQLite database for production in Laravel
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [tallstackui/tallstackui](https://github.com/tallstackui/tallstackui) - TallStackUI is a powerful suite of Blade components that elevate your workflow of Livewire applications.
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 128 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
 - [ans-group/laravel-health-check](https://github.com/ans-group/laravel-health-check) - A package for checking the health of your Laravel & Lumen applications
 - [hisorange/browser-detect](https://github.com/hisorange/browser-detect) - Browser Detection for Laravel by hisorange!
 - [io238/laravel-iso-countries](https://github.com/io238/laravel-iso-countries) - Ready-to-use Laravel models and relations for country (ISO 3166),  language (ISO 639-1), and currency (ISO 4217) information with multi-language support.
@@ -2391,7 +2397,7 @@
 
 ## localization 
 
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 128 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
 - [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
 
 ## login 
@@ -2531,7 +2537,7 @@
 
 ## mongodb 
 
-- [rameshsunkara/go-rest-api-example](https://github.com/rameshsunkara/go-rest-api-example) - Enterprise ready REST API microservice in golang
+- [rameshsunkara/go-rest-api-example](https://github.com/rameshsunkara/go-rest-api-example) - Production-ready Go REST APIs without the enterprise bloat
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
 - [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Web Scraping
@@ -2609,6 +2615,7 @@
 
 ## nextjs 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
@@ -2798,6 +2805,8 @@
 
 ## others 
 
+- [LaravelDaily/Large-Laravel-PHP-Project-Examples](https://github.com/LaravelDaily/Large-Laravel-PHP-Project-Examples) - 
+- [Bacon/BaconQrCode](https://github.com/Bacon/BaconQrCode) - QR Code Generator for PHP
 - [thewebscraping/tls-requests](https://github.com/thewebscraping/tls-requests) - TLS Requests is a powerful Python library for secure HTTP requests, offering browser-like TLS client, fingerprinting, anti-bot page bypass, and high performance.
 - [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression
 - [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.
@@ -3098,7 +3107,7 @@
 - [jakubboucek/fucking-eu-cookies](https://github.com/jakubboucek/fucking-eu-cookies) - One-file zasraná hláška pro zasranou EU
 - [Blizzard/s2client-proto](https://github.com/Blizzard/s2client-proto) - StarCraft II Client - protocol definitions used to communicate with StarCraft II.
 - [arscan/encom-boardroom](https://github.com/arscan/encom-boardroom) - 📈 Web tribute to the Tron: Legacy Boardroom Scene
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [jhurliman/node-rate-limiter](https://github.com/jhurliman/node-rate-limiter) - A generic rate limiter for node.js. Useful for API clients, web crawling, or other tasks that need to be throttled
 - [Automattic/kue](https://github.com/Automattic/kue) - Kue is a priority job queue backed by redis, built for node.js.
@@ -3312,6 +3321,7 @@
 
 ## php 
 
+- [antonioribeiro/countries](https://github.com/antonioribeiro/countries) - Laravel countries and currencies
 - [m1k1o/blog](https://github.com/m1k1o/blog) - Lightweight self-hosted facebook-styled PHP blog.
 - [spatie/laravel-mobile-pass](https://github.com/spatie/laravel-mobile-pass) - Generate mobile passes for iOS and Android
 - [nunomaduro/termwind](https://github.com/nunomaduro/termwind) - 🍃 In short, it's like Tailwind CSS, but for the PHP command-line applications.
@@ -3699,6 +3709,7 @@
 
 ## react 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 An Electron app boilerplate with React 19, TypeScript 5, Tailwind 4, shadcn/ui, Electron Vite, Biome, GitHub Action releases and more.
@@ -3826,6 +3837,7 @@
 
 ## reactjs 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 An Electron app boilerplate with React 19, TypeScript 5, Tailwind 4, shadcn/ui, Electron Vite, Biome, GitHub Action releases and more.
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
@@ -4086,7 +4098,7 @@
 
 ## statistics 
 
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 - [lozuwa/impy](https://github.com/lozuwa/impy) - Impy is a Python3 library with features that help you in your computer vision tasks.
@@ -4146,7 +4158,7 @@
 
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 - [bottenderjs/messaging-apis](https://github.com/bottenderjs/messaging-apis) - Messaging APIs for multi-platform
-- [ro31337/libretaxi](https://github.com/ro31337/libretaxi) - Open source Uber #deleteuber
+- [ro31337/libretaxi](https://github.com/ro31337/libretaxi) - Open source Uber
 
 ## tensorflow 
 
@@ -4355,7 +4367,7 @@
 ## vuejs 
 
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-- [mydnic/volet](https://github.com/mydnic/volet) - An extensible customer feedback widget for Laravel
+- [mydnic/volet](https://github.com/mydnic/volet) - Extensible customer feedback widget for Laravel
 - [voten-co/voten](https://github.com/voten-co/voten) - The code that powers voten.co
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [galaxyofdrones/galaxyofdrones](https://github.com/galaxyofdrones/galaxyofdrones) - 🚀 An open source multiplayer space strategy game.
