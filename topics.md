@@ -103,6 +103,7 @@
 - [gamedev](#gamedev)
 - [games](#games)
 - [gaming](#gaming)
+- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -154,6 +155,7 @@
 - [mastodon](#mastodon)
 - [material-design](#material-design)
 - [matlab](#matlab)
+- [microservices](#microservices)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -246,6 +248,7 @@
 - [testing](#testing)
 - [text-to-speech](#text-to-speech)
 - [trading](#trading)
+- [tui](#tui)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -685,7 +688,7 @@
 
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [botman/botman](https://github.com/botman/botman) - A framework agnostic PHP library to build chat bots
 - [snipsco/snips-nlu](https://github.com/snipsco/snips-nlu) - Snips Python library to extract meaning from text
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
@@ -698,13 +701,13 @@
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [albertstarfield/project-zephyrine](https://github.com/albertstarfield/project-zephyrine) - Project Zephyrine: Your experimental second hand for the world of ideas. Let's take a walk and flight with a modern, locally-run automaton, using accelerated thought to navigate the both digital aethe
 
 ## chatgpt-api 
 
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## chrome 
 
@@ -925,7 +928,6 @@
 ## css 
 
 - [nunomaduro/termwind](https://github.com/nunomaduro/termwind) - 🍃 In short, it's like Tailwind CSS, but for the PHP command-line applications.
-- [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 An Electron app boilerplate with React 19, TypeScript 5, Tailwind 4, shadcn/ui, Electron Vite, Biome, GitHub Action releases and more.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Web Awesome ("Shoelace 3") has been released! Get it here 👇👇👇
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
@@ -1299,7 +1301,6 @@
 
 ## eslint 
 
-- [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 An Electron app boilerplate with React 19, TypeScript 5, Tailwind 4, shadcn/ui, Electron Vite, Biome, GitHub Action releases and more.
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [grab/front-end-guide](https://github.com/grab/front-end-guide) - 📚 Study guide and introduction to the modern front end stack.
@@ -1447,9 +1448,15 @@
 
 - [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
 
+## generative-ai 
+
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+- [awslabs/amazon-bedrock-agent-samples](https://github.com/awslabs/amazon-bedrock-agent-samples) - Example Jupyter notebooks 📓 and code scripts 💻 for using Amazon Bedrock Agents 🤖 and its functionalities
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+
 ## git 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [abiosoft/caddy-git](https://github.com/abiosoft/caddy-git) - git middleware for Caddy
@@ -1757,11 +1764,11 @@
 
 ## hacktoberfest 
 
+- [tinylibs/tinybench](https://github.com/tinylibs/tinybench) - 🔎 A simple, tiny and lightweight benchmarking library!
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
-- [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 An Electron app boilerplate with React 19, TypeScript 5, Tailwind 4, shadcn/ui, Electron Vite, Biome, GitHub Action releases and more.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
@@ -2253,7 +2260,7 @@
 
 ## language 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 128 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [akaunting/laravel-language](https://github.com/akaunting/laravel-language) - Language switcher package for Laravel
@@ -2588,6 +2595,17 @@
 
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
 
+## microservices 
+
+- [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
+- [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
+- [lucidarch/laravel](https://github.com/lucidarch/laravel) - [DEPRECATED] See https://github.com/lucidarch/lucid
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
+- [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
+- [TIBCOSoftware/flogo](https://github.com/TIBCOSoftware/flogo) - Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.
+- [microsoft/service-fabric](https://github.com/microsoft/service-fabric) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+
 ## microsoft 
 
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capabilit
@@ -2894,7 +2912,6 @@
 - [beeware/toga](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit.
 - [zserge/fenster](https://github.com/zserge/fenster) - The most minimal cross-platform GUI library
 - [dbismut/draggable-slider](https://github.com/dbismut/draggable-slider) - Created with StackBlitz ⚡️
-- [awslabs/amazon-bedrock-agent-samples](https://github.com/awslabs/amazon-bedrock-agent-samples) - Example Jupyter notebooks 📓 and code scripts 💻 for using Amazon Bedrock Agents 🤖 and its functionalities
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [nyaruka/phonenumbers](https://github.com/nyaruka/phonenumbers) - GoLang port of Google's libphonenumber library
@@ -3100,7 +3117,6 @@
 - [jezen/is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [mzucker/noteshrink](https://github.com/mzucker/noteshrink) - Convert scans of handwritten notes to beautiful, compact PDFs
 - [pervognsen/bitwise](https://github.com/pervognsen/bitwise) - Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
-- [microsoft/service-fabric](https://github.com/microsoft/service-fabric) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
 - [jarektkaczyk/eloquence-base](https://github.com/jarektkaczyk/eloquence-base) - base for the Eloquence extensions + Searchable
 - [OwenMelbz/domain-enforcement](https://github.com/OwenMelbz/domain-enforcement) - Laravel 5+ Middleware to enforce a single domain on your application. e.g non-www. to www.
 - [Anorov/cloudflare-scrape](https://github.com/Anorov/cloudflare-scrape) - A Python module to bypass Cloudflare's anti-bot page.
@@ -3562,6 +3578,7 @@
 
 ## postgresql 
 
+- [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 - [Hornetlabs/synchdb](https://github.com/Hornetlabs/synchdb) - SynchDB is a PostgreSQL extension designed to replicate data from one or more heterogeneous databases (such as MySQL) directly to PostgreSQL in a fast and reliable way.
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
@@ -3999,7 +4016,6 @@
 
 ## sass 
 
-- [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 An Electron app boilerplate with React 19, TypeScript 5, Tailwind 4, shadcn/ui, Electron Vite, Biome, GitHub Action releases and more.
 - [linkedin/css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [oliviertassinari/a-journey-toward-better-style](https://github.com/oliviertassinari/a-journey-toward-better-style) - A Journey toward better style
@@ -4224,6 +4240,7 @@
 ## tailwindcss 
 
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 An Electron app boilerplate with React 19, TypeScript 5, Tailwind 4, shadcn/ui, Electron Vite, Biome, GitHub Action releases and more.
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 3.0.
@@ -4304,6 +4321,18 @@
 ## trading 
 
 - [maxbbraun/trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
+
+## tui 
+
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
+- [php-tui/php-tui](https://github.com/php-tui/php-tui) - Make awesome console applications in PHP (port of Rust's Ratatui)
+- [nanohard/gotime](https://github.com/nanohard/gotime) - CUI project/task/time tracker written in golang
+- [VladimirMarkelov/clui](https://github.com/VladimirMarkelov/clui) - Command Line User Interface (Console UI inspired by TurboVision)
+- [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
+- [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
+- [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 
 ## twitter 
 
