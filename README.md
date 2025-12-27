@@ -23,6 +23,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Less](#less)
@@ -464,6 +465,7 @@
 
 ## Java 
 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [GluuFederation/oxAuth](https://github.com/GluuFederation/oxAuth) - OAuth 2.0 server and client; OpenID Connect Provider (OP) & UMA Authorization Server (AS)
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
@@ -769,6 +771,10 @@
 - [angular/material](https://github.com/angular/material) - Material design for AngularJS
 - [krasimir/react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+
+## Jinja 
+
+- [jlevy/simple-modern-uv](https://github.com/jlevy/simple-modern-uv) - A minimal, modern Python project template using uv. An instantiated version of this template here
 
 ## Jupyter Notebook 
 
@@ -1406,6 +1412,7 @@
 - [buckyroberts/Vataxia](https://github.com/buckyroberts/Vataxia) - Open source social network built with Django and Django REST framework
 - [openai/baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [Chaosthebot/Chaos](https://github.com/Chaosthebot/Chaos) - A social coding experiment that updates its own code democratically.
+- [OWASP/mastg](https://github.com/OWASP/mastg) - The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP 
 - [ReactiveX/RxPY](https://github.com/ReactiveX/RxPY) - ReactiveX for Python
 - [cobalt-uoft/uoft-scrapers](https://github.com/cobalt-uoft/uoft-scrapers) - Public web scraping scripts for the University of Toronto.
 - [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
@@ -1524,7 +1531,6 @@
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [neoighodaro/laravel-docker](https://github.com/neoighodaro/laravel-docker) - Getting Started With Laravel and Docker.
 - [neoighodaro/docker-webserver](https://github.com/neoighodaro/docker-webserver) - Webserver (Nginx + PHP 7) running inside a Docker container.
-- [OWASP/mastg](https://github.com/OWASP/mastg) - The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP 
 - [laravel/homestead](https://github.com/laravel/homestead) - 
 - [laravel/settler](https://github.com/laravel/settler) - 
 - [MichielDerhaeg/build-linux](https://github.com/MichielDerhaeg/build-linux) - A short tutorial about building Linux based operating systems.
@@ -1573,7 +1579,6 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [nitrojs/nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
@@ -1656,7 +1661,7 @@
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share it.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, sell or collaborate. Privately.
 - [google/tamperchrome](https://github.com/google/tamperchrome) - Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS).
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [ramonszo/zuck.js](https://github.com/ramonszo/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
