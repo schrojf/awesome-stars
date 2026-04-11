@@ -199,7 +199,7 @@
 
 ## Elixir 
 
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [phoenixframework/firenest](https://github.com/phoenixframework/firenest) - 
 - [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 
@@ -213,12 +213,13 @@
 
 ## Go 
 
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [grindlemire/go-tui](https://github.com/grindlemire/go-tui) - A declarative terminal UI framework for Go.
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool (with MySQL\MariaDB and MongoDB support)
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [hetznercloud/hcloud-go](https://github.com/hetznercloud/hcloud-go) - A Go library for the Hetzner Cloud API
-- [meysam81/parse-dmarc](https://github.com/meysam81/parse-dmarc) - 🛡️ A lightweight, self-hosted DMARC report parser with a beautiful Vue.js dashboard. Single-binary deployment with IMAP integration, SQLite storage, and RFC 7489 compliance. Built with Go and Vue 3 - 
+- [dmarcguardhq/dmarcguard](https://github.com/dmarcguardhq/dmarcguard) - 🛡️ A lightweight, self-hosted DMARC report parser with a beautiful Vue.js dashboard. Single-binary deployment with IMAP integration, SQLite storage, and RFC 7489 compliance. Built with Go and Vue 3 - 
 - [asticode/go-astiav](https://github.com/asticode/go-astiav) - Golang ffmpeg and libav C bindings
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
