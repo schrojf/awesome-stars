@@ -41,6 +41,7 @@
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -364,7 +365,7 @@
 ## analytics 
 
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Data-Centric Pipelines and Data Versioning
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
@@ -743,6 +744,10 @@
 - [d4t4x/data-selfie](https://github.com/d4t4x/data-selfie) - Data Selfie - a browser extension to track yourself on Facebook and analyze your data.
 - [appbaseio/mirage](https://github.com/appbaseio/mirage) - :art: GUI for simplifying Elasticsearch Query DSL
 
+## claude-code 
+
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
+
 ## cli 
 
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
@@ -790,7 +795,6 @@
 ## cloud 
 
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [kool-dev/kool](https://github.com/kool-dev/kool) - From local development to the cloud: web apps development with containers made easy.
 - [nextcloud/vm](https://github.com/nextcloud/vm) - 💻☁📦 The Nextcloud VM (virtual machine appliance), Home/SME Server and scripts for RPi (4-5). Community developed and maintained.
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
@@ -1198,7 +1202,7 @@
 
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool (with MySQL\MariaDB and MongoDB support)
-- [meysam81/parse-dmarc](https://github.com/meysam81/parse-dmarc) - 🛡️ A lightweight, self-hosted DMARC report parser with a beautiful Vue.js dashboard. Single-binary deployment with IMAP integration, SQLite storage, and RFC 7489 compliance. Built with Go and Vue 3 - 
+- [dmarcguardhq/dmarcguard](https://github.com/dmarcguardhq/dmarcguard) - 🛡️ A lightweight, self-hosted DMARC report parser with a beautiful Vue.js dashboard. Single-binary deployment with IMAP integration, SQLite storage, and RFC 7489 compliance. Built with Go and Vue 3 - 
 - [m1k1o/blog](https://github.com/m1k1o/blog) - Lightweight self-hosted facebook-styled PHP blog.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -1302,7 +1306,7 @@
 
 ## elixir 
 
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 
 ## embedded 
@@ -1640,7 +1644,7 @@
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool (with MySQL\MariaDB and MongoDB support)
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [hetznercloud/hcloud-go](https://github.com/hetznercloud/hcloud-go) - A Go library for the Hetzner Cloud API
-- [meysam81/parse-dmarc](https://github.com/meysam81/parse-dmarc) - 🛡️ A lightweight, self-hosted DMARC report parser with a beautiful Vue.js dashboard. Single-binary deployment with IMAP integration, SQLite storage, and RFC 7489 compliance. Built with Go and Vue 3 - 
+- [dmarcguardhq/dmarcguard](https://github.com/dmarcguardhq/dmarcguard) - 🛡️ A lightweight, self-hosted DMARC report parser with a beautiful Vue.js dashboard. Single-binary deployment with IMAP integration, SQLite storage, and RFC 7489 compliance. Built with Go and Vue 3 - 
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [rameshsunkara/go-rest-api-example](https://github.com/rameshsunkara/go-rest-api-example) - Production-ready Go REST APIs without the enterprise bloat
 - [peltho/tufw](https://github.com/peltho/tufw) - Terminal UI for ufw
@@ -3667,7 +3671,7 @@
 - [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 - [Hornetlabs/synchdb](https://github.com/Hornetlabs/synchdb) - SynchDB is a PostgreSQL extension designed to replicate data from one or more heterogeneous databases (such as MySQL) directly to PostgreSQL in a fast and reliable way.
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Lightweight Durable Python Workflows
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
@@ -3685,7 +3689,7 @@
 ## privacy 
 
 - [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [nikivdev/privacy-respecting](https://github.com/nikivdev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
 - [ghostery/ghostery-extension](https://github.com/ghostery/ghostery-extension) - Ghostery Browser Extension for Firefox, Chrome, Opera, Edge and Safari
 - [Consensys/quorum](https://github.com/Consensys/quorum) - A permissioned implementation of Ethereum supporting data privacy
@@ -4127,6 +4131,7 @@
 
 ## security 
 
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [konstruktoid/hardening](https://github.com/konstruktoid/hardening) - Hardening Ubuntu. Systemd edition.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -4174,10 +4179,11 @@
 ## self-hosted 
 
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool (with MySQL\MariaDB and MongoDB support)
-- [meysam81/parse-dmarc](https://github.com/meysam81/parse-dmarc) - 🛡️ A lightweight, self-hosted DMARC report parser with a beautiful Vue.js dashboard. Single-binary deployment with IMAP integration, SQLite storage, and RFC 7489 compliance. Built with Go and Vue 3 - 
+- [dmarcguardhq/dmarcguard](https://github.com/dmarcguardhq/dmarcguard) - 🛡️ A lightweight, self-hosted DMARC report parser with a beautiful Vue.js dashboard. Single-binary deployment with IMAP integration, SQLite storage, and RFC 7489 compliance. Built with Go and Vue 3 - 
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [m1k1o/blog](https://github.com/m1k1o/blog) - Lightweight self-hosted facebook-styled PHP blog.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [WINBIGFOX/TimeScribe](https://github.com/WINBIGFOX/TimeScribe) - Modern & private time tracking for macOS & Windows. No cloud, no registration, no paywall. Just download and track your work hours 100% offline.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
@@ -4265,7 +4271,7 @@
 
 ## sqlite 
 
-- [meysam81/parse-dmarc](https://github.com/meysam81/parse-dmarc) - 🛡️ A lightweight, self-hosted DMARC report parser with a beautiful Vue.js dashboard. Single-binary deployment with IMAP integration, SQLite storage, and RFC 7489 compliance. Built with Go and Vue 3 - 
+- [dmarcguardhq/dmarcguard](https://github.com/dmarcguardhq/dmarcguard) - 🛡️ A lightweight, self-hosted DMARC report parser with a beautiful Vue.js dashboard. Single-binary deployment with IMAP integration, SQLite storage, and RFC 7489 compliance. Built with Go and Vue 3 - 
 - [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Lightweight Durable Python Workflows
 - [swiss-devjoy/laravel-optimize-sqlite](https://github.com/swiss-devjoy/laravel-optimize-sqlite) - Optimize your SQLite database for production in Laravel
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
@@ -4287,7 +4293,7 @@
 ## statistics 
 
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 - [lozuwa/impy](https://github.com/lozuwa/impy) - Impy is a Python3 library with features that help you in your computer vision tasks.
 - [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
@@ -4337,7 +4343,7 @@
 
 ## tailwindcss 
 
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 An Electron app boilerplate with React 19, TypeScript 5, Tailwind 4, shadcn/ui, Electron Vite, Biome, GitHub Action releases and more.
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
@@ -4583,7 +4589,7 @@
 
 ## vuejs 
 
-- [meysam81/parse-dmarc](https://github.com/meysam81/parse-dmarc) - 🛡️ A lightweight, self-hosted DMARC report parser with a beautiful Vue.js dashboard. Single-binary deployment with IMAP integration, SQLite storage, and RFC 7489 compliance. Built with Go and Vue 3 - 
+- [dmarcguardhq/dmarcguard](https://github.com/dmarcguardhq/dmarcguard) - 🛡️ A lightweight, self-hosted DMARC report parser with a beautiful Vue.js dashboard. Single-binary deployment with IMAP integration, SQLite storage, and RFC 7489 compliance. Built with Go and Vue 3 - 
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [mydnic/volet](https://github.com/mydnic/volet) - Extensible customer feedback widget for Laravel
 - [WINBIGFOX/TimeScribe](https://github.com/WINBIGFOX/TimeScribe) - Modern & private time tracking for macOS & Windows. No cloud, no registration, no paywall. Just download and track your work hours 100% offline.
@@ -4663,7 +4669,6 @@
 
 ## website 
 
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [raviqqe/muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
 - [samccone/bundle-buddy](https://github.com/samccone/bundle-buddy) - A tool to understand your bundle size and why files are in your bundle
