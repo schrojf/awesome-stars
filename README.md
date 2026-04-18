@@ -131,7 +131,7 @@
 - [mlin/sqlite_zstd_vfs](https://github.com/mlin/sqlite_zstd_vfs) - SQLite3 extension for read/write storage compression with Zstandard
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [fifengine/fifengine](https://github.com/fifengine/fifengine) - FIFE is a multi-platform isometric game engine
-- [BlinkID/blinkid-react-native](https://github.com/BlinkID/blinkid-react-native) - ID scanning for cross-platform apps built with ReactNative.
+- [microblink/blinkid-react-native](https://github.com/microblink/blinkid-react-native) - ID scanning for cross-platform apps built with ReactNative.
 - [Gaius-Augustus/Augustus](https://github.com/Gaius-Augustus/Augustus) - Genome annotation with AUGUSTUS
 - [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - Command & Conquer: Remastered Collection
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
@@ -213,9 +213,10 @@
 
 ## Go 
 
+- [jaypipes/ghw](https://github.com/jaypipes/ghw) - Go HardWare discovery/inspection library
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [grindlemire/go-tui](https://github.com/grindlemire/go-tui) - A declarative terminal UI framework for Go.
-- [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool (with MySQL\MariaDB and MongoDB support)
+- [databasus/databasus](https://github.com/databasus/databasus) - Database backup tool (PostgreSQL, MySQL\MariaDB and MongoDB)
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [hetznercloud/hcloud-go](https://github.com/hetznercloud/hcloud-go) - A Go library for the Hetzner Cloud API
@@ -356,8 +357,8 @@
 - [GoogleChromeLabs/go-hackernews](https://github.com/GoogleChromeLabs/go-hackernews) - A Hacker News client written in Go
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [go-ego/riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine; Warning: This is V1 and beta version, because of big memory consume, and the V2 will be rewrite all code.
-- [seiflotfy/skizze](https://github.com/seiflotfy/skizze) - A probabilistic data structure service and storage
-- [OrlovEvgeny/go-mcache](https://github.com/OrlovEvgeny/go-mcache) - High-throughput, sharded in-memory KV cache for Go with zero allocations
+- [seiflotfy/skizze-legacy](https://github.com/seiflotfy/skizze-legacy) - A probabilistic data structure service and storage
+- [OrlovEvgeny/go-mcache](https://github.com/OrlovEvgeny/go-mcache) - high performance in-memory cache
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [rafaeljesus/parallel-fn](https://github.com/rafaeljesus/parallel-fn) - Run functions in parallel :comet:
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -536,7 +537,6 @@
 - [sergeyksv/tingodb](https://github.com/sergeyksv/tingodb) - Embedded Node.js database upward compatible with MongoDB
 - [google/wicked-good-xpath](https://github.com/google/wicked-good-xpath) - Pure JS implementation of the DOM Level 3 XPath specification
 - [nathancahill/split](https://github.com/nathancahill/split) - Unopinionated utilities for resizeable split views
-- [Autodesk/react-base-table](https://github.com/Autodesk/react-base-table) - A react table component to display large datasets with high performance and flexibility
 - [Autodesk/hig](https://github.com/Autodesk/hig) - Autodesk's unified design system
 - [inoerp/inoERP](https://github.com/inoerp/inoERP) - inoERP is an OneApp [ Go back-end & Flutter front-end ] based enterprise management system
 - [videojs/mux.js](https://github.com/videojs/mux.js) - Lightweight utilities for inspecting and manipulating video container formats.
@@ -1306,8 +1306,10 @@
 
 ## Python 
 
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+- [wilpel/caveman-compression](https://github.com/wilpel/caveman-compression) - Caveman Compression is a semantic compression method for LLM contexts. It removes predictable grammar while preserving the unpredictable, factual content that defines meaning.
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
 - [thewebscraping/tls-requests](https://github.com/thewebscraping/tls-requests) - TLS Requests is a powerful Python library for secure HTTP requests, offering browser-like TLS client, fingerprinting, anti-bot page bypass, and high performance.
@@ -1558,7 +1560,7 @@
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
 - [adtac/climate](https://github.com/adtac/climate) - The swiss-army knife of utility tools for Linux.
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
-- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Amazon Linux, Alpine and Raspberry Pi. Includes client config and 
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [Khan/style-guides](https://github.com/Khan/style-guides) - Docs for the Organization
 
@@ -1616,6 +1618,7 @@
 - [apify/actor-scraper](https://github.com/apify/actor-scraper) - House of Apify Scrapers. Generic scraping actors with a simple UI to handle complex web crawling and scraping use cases.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
+- [Autodesk/react-base-table](https://github.com/Autodesk/react-base-table) - A react table component to display large datasets with high performance and flexibility
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [flyover/imgui-js](https://github.com/flyover/imgui-js) - JavaScript bindings for Dear ImGui using Emscripten and TypeScript
