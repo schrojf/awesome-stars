@@ -184,6 +184,7 @@
 - [npm](#npm)
 - [numpy](#numpy)
 - [objective-c](#objective-c)
+- [obsidian](#obsidian)
 - [open-data](#open-data)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -296,6 +297,10 @@
 
 ## ai 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
+- [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application
+- [glincker/stacklit](https://github.com/glincker/stacklit) - One command gives AI agents instant codebase context. ~250 tokens replaces 50,000+ tokens of exploration. Auto-configures Claude Code, Cursor, Aider.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
@@ -318,6 +323,9 @@
 
 ## ai-agents 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application
+- [glincker/stacklit](https://github.com/glincker/stacklit) - One command gives AI agents instant codebase context. ~250 tokens replaces 50,000+ tokens of exploration. Auto-configures Claude Code, Cursor, Aider.
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 
@@ -410,7 +418,7 @@
 
 ## ansible 
 
-- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
+- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.
 - [msztorc/laravel-starter](https://github.com/msztorc/laravel-starter) - Laravel starter - Ansible Provisioner not only for Vagrant
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
 
@@ -631,6 +639,7 @@
 ## bash 
 
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries.
+- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.
 - [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
 - [jasonheecs/ubuntu-server-setup](https://github.com/jasonheecs/ubuntu-server-setup) - A setup script for Ubuntu servers
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -717,6 +726,7 @@
 
 ## chatgpt 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
@@ -748,11 +758,14 @@
 
 ## claude-code 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [glincker/stacklit](https://github.com/glincker/stacklit) - One command gives AI agents instant codebase context. ~250 tokens replaces 50,000+ tokens of exploration. Auto-configures Claude Code, Cursor, Aider.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
 
 ## cli 
 
+- [glincker/stacklit](https://github.com/glincker/stacklit) - One command gives AI agents instant codebase context. ~250 tokens replaces 50,000+ tokens of exploration. Auto-configures Claude Code, Cursor, Aider.
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - 🏝️ A CLI Tool to Automate Your Everyday Web Browser.
@@ -1161,6 +1174,7 @@
 
 ## developer-tools 
 
+- [glincker/stacklit](https://github.com/glincker/stacklit) - One command gives AI agents instant codebase context. ~250 tokens replaces 50,000+ tokens of exploration. Auto-configures Claude Code, Cursor, Aider.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
@@ -1212,7 +1226,7 @@
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [SimpleHomelab/Docker-Traefik](https://github.com/SimpleHomelab/Docker-Traefik) - Docker media and home server stack with Docker Compose, Traefik, CrowdSec, Google OAuth2/Authelia, and LetsEncrypt. Built with Deployrr and UDMS guides/videos.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
+- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.
 - [kool-dev/kool](https://github.com/kool-dev/kool) - From local development to the cloud: web apps development with containers made easy.
 - [alchemy-fr/Phraseanet](https://github.com/alchemy-fr/Phraseanet) - Digital Asset Management PHP app
 - [strapi/strapi-docker](https://github.com/strapi/strapi-docker) - Install and run your first Strapi project using Docker
@@ -1410,6 +1424,7 @@
 
 ## framework 
 
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run 
@@ -1497,7 +1512,7 @@
 
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
 - [awslabs/amazon-bedrock-agent-samples](https://github.com/awslabs/amazon-bedrock-agent-samples) - Example Jupyter notebooks 📓 and code scripts 💻 for using Amazon Bedrock Agents 🤖 and its functionalities
-- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform
 
 ## git 
 
@@ -1535,6 +1550,9 @@
 
 ## go 
 
+- [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX: An Accelerated Machine Learning Framework For Go
+- [gomlx/go-huggingface](https://github.com/gomlx/go-huggingface) - Conveniently download files, models, tokenizers from HuggingFace Hub
+- [taigrr/spank](https://github.com/taigrr/spank) - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [hetznercloud/hcloud-go](https://github.com/hetznercloud/hcloud-go) - A Go library for the Hetzner Cloud API
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -1642,6 +1660,10 @@
 
 ## golang 
 
+- [hybridgroup/yzma](https://github.com/hybridgroup/yzma) - Go with your own intelligence - Go applications that directly integrate llama.cpp for local inference using hardware acceleration.
+- [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX: An Accelerated Machine Learning Framework For Go
+- [gomlx/go-huggingface](https://github.com/gomlx/go-huggingface) - Conveniently download files, models, tokenizers from HuggingFace Hub
+- [glincker/stacklit](https://github.com/glincker/stacklit) - One command gives AI agents instant codebase context. ~250 tokens replaces 50,000+ tokens of exploration. Auto-configures Claude Code, Cursor, Aider.
 - [grindlemire/go-tui](https://github.com/grindlemire/go-tui) - A declarative terminal UI framework for Go.
 - [databasus/databasus](https://github.com/databasus/databasus) - Database backup tool (PostgreSQL, MySQL\MariaDB and MongoDB)
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
@@ -1750,13 +1772,13 @@
 
 ## google 
 
-- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform
 - [lipp/login-with](https://github.com/lipp/login-with) - Stateless login-with microservice for OAuth
 - [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) - A Laravel package to retrieve pageviews and other data from Google Analytics
 
 ## google-cloud 
 
-- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform
 - [Superbalist/flysystem-google-cloud-storage](https://github.com/Superbalist/flysystem-google-cloud-storage) - Flysystem Adapter for Google Cloud Storage
 - [Superbalist/laravel-google-cloud-storage](https://github.com/Superbalist/laravel-google-cloud-storage) - A Google Cloud Storage filesystem for Laravel
 
@@ -2301,7 +2323,7 @@
 
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [databasus/databasus](https://github.com/databasus/databasus) - Database backup tool (PostgreSQL, MySQL\MariaDB and MongoDB)
-- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
+- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.
 - [kool-dev/kool](https://github.com/kool-dev/kool) - From local development to the cloud: web apps development with containers made easy.
 - [alchemy-fr/Phraseanet](https://github.com/alchemy-fr/Phraseanet) - Digital Asset Management PHP app
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -2510,6 +2532,10 @@
 
 ## llm 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
+- [hybridgroup/yzma](https://github.com/hybridgroup/yzma) - Go with your own intelligence - Go applications that directly integrate llama.cpp for local inference using hardware acceleration.
+- [glincker/stacklit](https://github.com/glincker/stacklit) - One command gives AI agents instant codebase context. ~250 tokens replaces 50,000+ tokens of exploration. Auto-configures Claude Code, Cursor, Aider.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
@@ -2519,7 +2545,7 @@
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
-- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
@@ -2549,6 +2575,8 @@
 
 ## machine-learning 
 
+- [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX: An Accelerated Machine Learning Framework For Go
+- [gomlx/go-huggingface](https://github.com/gomlx/go-huggingface) - Conveniently download files, models, tokenizers from HuggingFace Hub
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [NanoNets/docext](https://github.com/NanoNets/docext) - An on-premises, OCR-free unstructured data extraction, markdown conversion and benchmarking toolkit. (https://idp-leaderboard.org/)
@@ -2610,6 +2638,7 @@
 
 ## macos 
 
+- [taigrr/spank](https://github.com/taigrr/spank) - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [WINBIGFOX/TimeScribe](https://github.com/WINBIGFOX/TimeScribe) - Modern & private time tracking for macOS & Windows. No cloud, no registration, no paywall. Just download and track your work hours 100% offline.
 - [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run 
@@ -2664,6 +2693,7 @@
 
 ## mcp 
 
+- [glincker/stacklit](https://github.com/glincker/stacklit) - One command gives AI agents instant codebase context. ~250 tokens replaces 50,000+ tokens of exploration. Auto-configures Claude Code, Cursor, Aider.
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -2760,6 +2790,7 @@
 
 ## neural-network 
 
+- [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX: An Accelerated Machine Learning Framework For Go
 - [mv-lab/InstructIR](https://github.com/mv-lab/InstructIR) - [ECCV 2024] InstructIR: High-Quality Image Restoration Following Human Instructions https://huggingface.co/spaces/marcosv/InstructIR
 - [MrGemy95/Tensorflow-Project-Template](https://github.com/MrGemy95/Tensorflow-Project-Template) - A best practice for tensorflow project template architecture.
 - [gorgonia/gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
@@ -2907,6 +2938,10 @@
 
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
 
+## obsidian 
+
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
+
 ## open-data 
 
 - [cobalt-uoft/uoft-scrapers](https://github.com/cobalt-uoft/uoft-scrapers) - Public web scraping scripts for the University of Toronto.
@@ -2935,6 +2970,8 @@
 
 ## openai 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
 - [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
@@ -2972,6 +3009,8 @@
 
 ## others 
 
+- [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
+- [spatie/boost-spatie-guidelines](https://github.com/spatie/boost-spatie-guidelines) - Spatie's Laravel & PHP coding guidelines for Laravel Boost
 - [wilpel/caveman-compression](https://github.com/wilpel/caveman-compression) - Caveman Compression is a semantic compression method for LLM contexts. It removes predictable grammar while preserving the unpredictable, factual content that defines meaning.
 - [jaypipes/ghw](https://github.com/jaypipes/ghw) - Go HardWare discovery/inspection library
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
@@ -3766,6 +3805,7 @@
 
 ## python 
 
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
@@ -3780,6 +3820,7 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
+- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.
 - [miso-belica/sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages.
 - [google-research/retvec](https://github.com/google-research/retvec) - RETVec is an efficient, multilingual, and adversarially-robust text vectorizer.
 - [LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-Platform Package Manager for Stable Diffusion
@@ -3892,6 +3933,7 @@
 
 ## raspberry-pi 
 
+- [hybridgroup/yzma](https://github.com/hybridgroup/yzma) - Go with your own intelligence - Go applications that directly integrate llama.cpp for local inference using hardware acceleration.
 - [jareware/chilipie-kiosk](https://github.com/jareware/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors.
 - [ajstarks/openvg](https://github.com/ajstarks/openvg) - Tools for exploring OpenVG
 - [google/aiyprojects-raspbian](https://github.com/google/aiyprojects-raspbian) - API libraries, samples, and system images for AIY Projects (Voice Kit and Vision Kit)
@@ -3902,6 +3944,7 @@
 
 ## react 
 
+- [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
@@ -4195,6 +4238,7 @@
 - [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - A self-hosted habit tracking app without "Goals"
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -4405,7 +4449,7 @@
 
 ## terraform 
 
-- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
+- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.
 - [hobby-kube/guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist.
 
 ## testing 
