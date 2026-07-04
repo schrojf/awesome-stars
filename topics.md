@@ -6,7 +6,6 @@
 ## Contents
 
 - [3d](#3d)
-- [agent](#agent)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
@@ -42,6 +41,7 @@
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude](#claude)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
@@ -148,6 +148,7 @@
 - [languages](#languages)
 - [laravel](#laravel)
 - [latex](#latex)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -293,10 +294,6 @@
 
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 
-## agent 
-
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
-
 ## agents 
 
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
@@ -343,7 +340,6 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application
 - [glincker/stacklit](https://github.com/glincker/stacklit) - One command gives AI agents instant codebase context. ~250 tokens replaces 50,000+ tokens of exploration. Auto-configures Claude Code, Cursor, Aider.
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
@@ -502,6 +498,7 @@
 
 ## awesome 
 
+- [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
@@ -567,6 +564,7 @@
 
 ## awesome-list 
 
+- [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
@@ -672,7 +670,7 @@
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [adtac/climate](https://github.com/adtac/climate) - The swiss-army knife of utility tools for Linux.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Amazon Linux, Alpine and Raspberry Pi. Includes client config and 
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and manag
 
 ## beginner-project 
 
@@ -779,6 +777,16 @@
 - [d4t4x/data-selfie](https://github.com/d4t4x/data-selfie) - Data Selfie - a browser extension to track yourself on Facebook and analyze your data.
 - [appbaseio/mirage](https://github.com/appbaseio/mirage) - :art: GUI for simplifying Elasticsearch Query DSL
 
+## claude 
+
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [glincker/stacklit](https://github.com/glincker/stacklit) - One command gives AI agents instant codebase context. ~250 tokens replaces 50,000+ tokens of exploration. Auto-configures Claude Code, Cursor, Aider.
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
 ## claude-code 
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -788,6 +796,7 @@
 
 ## cli 
 
+- [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [glincker/stacklit](https://github.com/glincker/stacklit) - One command gives AI agents instant codebase context. ~250 tokens replaces 50,000+ tokens of exploration. Auto-configures Claude Code, Cursor, Aider.
@@ -795,7 +804,6 @@
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - 🏝️ A CLI Tool to Automate Your Everyday Web Browser.
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -881,6 +889,7 @@
 
 ## command-line 
 
+- [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts
 - [gulyasm/jsonui](https://github.com/gulyasm/jsonui) - jsonui is an interactive JSON explorer on your command line
@@ -929,7 +938,7 @@
 
 ## computer-vision 
 
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [mv-lab/InstructIR](https://github.com/mv-lab/InstructIR) - [ECCV 2024] InstructIR: High-Quality Image Restoration Following Human Instructions https://huggingface.co/spaces/marcosv/InstructIR
 - [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO.
@@ -1135,7 +1144,7 @@
 
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [mv-lab/InstructIR](https://github.com/mv-lab/InstructIR) - [ECCV 2024] InstructIR: High-Quality Image Restoration Following Human Instructions https://huggingface.co/spaces/marcosv/InstructIR
 - [dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
 - [google-research/retvec](https://github.com/google-research/retvec) - RETVec is an efficient, multilingual, and adversarially-robust text vectorizer.
@@ -1250,6 +1259,7 @@
 
 ## docker 
 
+- [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [dmarcguardhq/dmarcguard](https://github.com/dmarcguardhq/dmarcguard) - 🛡️ A lightweight, self-hosted DMARC report parser with a beautiful Vue.js dashboard. Single-binary deployment with IMAP integration, SQLite storage, and RFC 7489 compliance. Built with Go and Vue 3 - 
@@ -1585,6 +1595,7 @@
 
 ## go 
 
+- [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX: An Accelerated Machine Learning Framework For Go
 - [gomlx/go-huggingface](https://github.com/gomlx/go-huggingface) - Conveniently download files, models, tokenizers from HuggingFace Hub
 - [taigrr/spank](https://github.com/taigrr/spank) - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.
@@ -2518,6 +2529,15 @@
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [luong-komorebi/Begin-Latex-in-minutes](https://github.com/luong-komorebi/Begin-Latex-in-minutes) - 📜 Brief Intro to LaTeX for beginners that helps you use LaTeX with ease.
 
+## learn-to-code 
+
+- [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
+- [shovanch/fullstack-web-developer-path](https://github.com/shovanch/fullstack-web-developer-path) - 📚 A learning path for Full-stack web development
+- [thejsway/thejsway](https://github.com/thejsway/thejsway) - The JavaScript Way book
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+
 ## learning 
 
 - [miguelmota/golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning 🤓 By @miguelmota
@@ -2572,7 +2592,7 @@
 - [adtac/climate](https://github.com/adtac/climate) - The swiss-army knife of utility tools for Linux.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
-- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Amazon Linux, Alpine and Raspberry Pi. Includes client config and 
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and manag
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 
 ## llm 
@@ -2582,7 +2602,6 @@
 - [hybridgroup/yzma](https://github.com/hybridgroup/yzma) - Go with your own intelligence - Go applications that directly integrate llama.cpp for local inference using hardware acceleration.
 - [glincker/stacklit](https://github.com/glincker/stacklit) - One command gives AI agents instant codebase context. ~250 tokens replaces 50,000+ tokens of exploration. Auto-configures Claude Code, Cursor, Aider.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
@@ -2626,7 +2645,7 @@
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [NanoNets/docext](https://github.com/NanoNets/docext) - An on-premises, OCR-free unstructured data extraction, markdown conversion and benchmarking toolkit. (https://idp-leaderboard.org/)
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [mljs/ml](https://github.com/mljs/ml) - Machine learning tools in JavaScript
 - [dphnAI/aphrodite-engine](https://github.com/dphnAI/aphrodite-engine) - Large-scale LLM inference engine
@@ -2886,6 +2905,7 @@
 
 ## node 
 
+- [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text) - Advanced html to text converter
 - [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss
 - [sigalor/whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) - Reverse engineering WhatsApp Web.
@@ -2900,6 +2920,7 @@
 
 ## nodejs 
 
+- [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss
@@ -3070,6 +3091,7 @@
 
 ## others 
 
+- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 - [daaain/claude-code-log](https://github.com/daaain/claude-code-log) - A Python CLI tool that converts Claude Code transcript JSONL files into readable HTML / Markdown format.
 - [pdubroy/til](https://github.com/pdubroy/til) - Today I Learned - inspired by @simonw and @jbranchaud
 - [pymupdf/pymupdf4llm](https://github.com/pymupdf/pymupdf4llm) - PyMuPDF4LLM
@@ -3082,6 +3104,7 @@
 - [spatie/boost-spatie-guidelines](https://github.com/spatie/boost-spatie-guidelines) - Spatie's Laravel & PHP coding guidelines for Laravel Boost
 - [wilpel/caveman-compression](https://github.com/wilpel/caveman-compression) - Caveman Compression is a semantic compression method for LLM contexts. It removes predictable grammar while preserving the unpredictable, factual content that defines meaning.
 - [jaypipes/ghw](https://github.com/jaypipes/ghw) - Go HardWare discovery/inspection library
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 - [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) - 
 - [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
 - [ibrahim-eng12/Seoquent](https://github.com/ibrahim-eng12/Seoquent) - All-in-one SEO for Laravel 10+. One line in your controller, one directive in your blade — done.
@@ -3372,7 +3395,6 @@
 - [amilajack/electron-react-boilerplate-site](https://github.com/amilajack/electron-react-boilerplate-site) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 - [firegento/FireGento_ExtendedImport2](https://github.com/firegento/FireGento_ExtendedImport2) - Magento 2 module: Extend the CSV import format
 - [mplewis/src2png](https://github.com/mplewis/src2png) - 📸💻 Turn your source code into beautiful syntax-highlighted images.
-- [shovanch/fullstack-web-developer-path](https://github.com/shovanch/fullstack-web-developer-path) - 📚 A learning path for Full-stack web development
 - [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 - [tomepel/Technical_Book_DL](https://github.com/tomepel/Technical_Book_DL) - This note presents in a technical though hopefully pedagogical way the three most common forms of neural network architectures: Feedforward, Convolutional and Recurrent.
 - [ChrisRM/material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) - JetBrains theme of Material Theme
@@ -3810,7 +3832,7 @@
 - [d4t4x/data-selfie](https://github.com/d4t4x/data-selfie) - Data Selfie - a browser extension to track yourself on Facebook and analyze your data.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
-- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Amazon Linux, Alpine and Raspberry Pi. Includes client config and 
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and manag
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -3885,7 +3907,7 @@
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
 - [beeware/toga](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit.
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [dbos-inc/dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Database-Backed Durable Python Workflows
 - [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - A self-hosted habit tracking app without "Goals"
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
@@ -3972,7 +3994,7 @@
 ## pytorch 
 
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [mv-lab/InstructIR](https://github.com/mv-lab/InstructIR) - [ECCV 2024] InstructIR: High-Quality Image Restoration Following Human Instructions https://huggingface.co/spaces/marcosv/InstructIR
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
@@ -3998,7 +4020,6 @@
 
 ## rag 
 
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 - [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [NanoNets/docext](https://github.com/NanoNets/docext) - An on-premises, OCR-free unstructured data extraction, markdown conversion and benchmarking toolkit. (https://idp-leaderboard.org/)
@@ -4012,7 +4033,7 @@
 - [google/aiyprojects-raspbian](https://github.com/google/aiyprojects-raspbian) - API libraries, samples, and system images for AIY Projects (Voice Kit and Vision Kit)
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Amazon Linux, Alpine and Raspberry Pi. Includes client config and 
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and manag
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 
 ## react 
@@ -4288,7 +4309,7 @@
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Amazon Linux, Alpine and Raspberry Pi. Includes client config and 
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and manag
 - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers
 
 ## security-tools 
@@ -4302,6 +4323,7 @@
 
 ## self-hosted 
 
+- [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [dmarcguardhq/dmarcguard](https://github.com/dmarcguardhq/dmarcguard) - 🛡️ A lightweight, self-hosted DMARC report parser with a beautiful Vue.js dashboard. Single-binary deployment with IMAP integration, SQLite storage, and RFC 7489 compliance. Built with Go and Vue 3 - 
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
@@ -4326,7 +4348,7 @@
 - [overshard/timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
-- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Amazon Linux, Alpine and Raspberry Pi. Includes client config and 
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and manag
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## server 
@@ -4575,6 +4597,7 @@
 
 ## typescript 
 
+- [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [AllThingsSmitty/typescript-tips-everyone-should-know](https://github.com/AllThingsSmitty/typescript-tips-everyone-should-know) - ✅ A curated collection of practical TypeScript patterns that improve safety, readability, maintainability, and developer experience. 🧠
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 An Electron app boilerplate with React 19, TypeScript 5, Tailwind 4, shadcn/ui, Electron Vite, Biome, GitHub Action releases and more.
@@ -4622,7 +4645,7 @@
 - [chef/bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
 - [santoshbaggam/stacker](https://github.com/santoshbaggam/stacker) - Hassle-free server setup for Developers
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
-- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Amazon Linux, Alpine and Raspberry Pi. Includes client config and 
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and manag
 
 ## ui 
 
@@ -4699,7 +4722,7 @@
 - [ivanilves/xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
-- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Amazon Linux, Alpine and Raspberry Pi. Includes client config and 
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and manag
 
 ## vue 
 
