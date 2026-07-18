@@ -277,7 +277,7 @@
 - [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron) - A Golang Job Scheduling Package.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [kool-dev/kool](https://github.com/kool-dev/kool) - From local development to the cloud: web apps development with containers made easy.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [tdewolff/canvas](https://github.com/tdewolff/canvas) - Vector graphics in Go
 - [rajveermalviya/go-webgpu](https://github.com/rajveermalviya/go-webgpu) - Go bindings for WebGPU, a safe & cross-platform GPU abstraction
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
@@ -675,7 +675,6 @@
 - [moroshko/react-autosuggest](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 - [jschr/electron-react-redux-boilerplate](https://github.com/jschr/electron-react-redux-boilerplate) - A minimal boilerplate to get started with Electron, React and Redux.
-- [stampit-org/stampit](https://github.com/stampit-org/stampit) - OOP is better with stamps: Composable object factories.
 - [chrispsn/mesh](https://github.com/chrispsn/mesh) - Old version. Visualise data and edit JavaScript code using a spreadsheet interface.
 - [xori/gamblers-dice](https://github.com/xori/gamblers-dice) - A terrible idea, now real.
 - [kbrsh/wade](https://github.com/kbrsh/wade) - :ocean: Blazing fast 1kb search library
@@ -866,7 +865,7 @@
 
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
-- [AllThingsSmitty/typescript-tips-everyone-should-know](https://github.com/AllThingsSmitty/typescript-tips-everyone-should-know) - ✅ A curated collection of practical TypeScript patterns that improve safety, readability, maintainability, and developer experience. 🧠
+- [AllThingsSmitty/typescript-tips-everyone-should-know](https://github.com/AllThingsSmitty/typescript-tips-everyone-should-know) - ✅ A collection of practical TypeScript patterns that improve safety, readability, maintainability, and developer experience. 🧠
 - [tonbistudio/llm-wiki](https://github.com/tonbistudio/llm-wiki) - Open-source template for building LLM-powered knowledge bases following Karpathy's LLM Wiki pattern
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) - 
@@ -1288,7 +1287,7 @@
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel
 - [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 - [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 - [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
@@ -1369,7 +1368,6 @@
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [scrapinghub/extruct](https://github.com/scrapinghub/extruct) - Extract embedded metadata from HTML markup
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [imoneoi/openchat](https://github.com/imoneoi/openchat) - OpenChat: Advancing Open-source Language Models with Imperfect Data
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
@@ -1560,7 +1558,7 @@
 - [srvrco/getssl](https://github.com/srvrco/getssl) - obtain free SSL certificates from letsencrypt ACME server  Suitable for automating the process on remote servers.
 - [nextcloud/vm](https://github.com/nextcloud/vm) - 💻☁📦 The Nextcloud VM (virtual machine appliance), Home/SME Server and scripts for RPi (4-5). Community developed and maintained.
 - [Crowd9/Benchmark](https://github.com/Crowd9/Benchmark) - 
-- [heroku/heroku-buildpack-php](https://github.com/heroku/heroku-buildpack-php) - Heroku's classic buildpack for PHP applications.
+- [heroku/heroku-buildpack-php](https://github.com/heroku/heroku-buildpack-php) - Heroku's classic buildpack for PHP apps
 - [ironicbadger/docker-snapraid](https://github.com/ironicbadger/docker-snapraid) - Build SnapRAID from source in Docker
 - [Anonymousdog/displaycameras](https://github.com/Anonymousdog/displaycameras) - System for displaying RTSP feeds from IP cameras on the Raspberry Pi
 - [LukeSmithxyz/emailwiz](https://github.com/LukeSmithxyz/emailwiz) - Script that installs/configures a Dovecot, Postfix, Spam Assassin, OpenDKIM Debian web server
@@ -1639,6 +1637,7 @@
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's internal API, known as InnerTube.
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [bgub/eta](https://github.com/bgub/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript
 - [software-mansion/react-native-svg](https://github.com/software-mansion/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
@@ -1700,6 +1699,7 @@
 - [jhurliman/node-rate-limiter](https://github.com/jhurliman/node-rate-limiter) - A generic rate limiter for node.js. Useful for API clients, web crawling, or other tasks that need to be throttled
 - [bda-research/node-crawler](https://github.com/bda-research/node-crawler) - Web Crawler/Spider for NodeJS + server-side jQuery ;-)
 - [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
+- [stampit-org/stampit](https://github.com/stampit-org/stampit) - OOP is better with stamps: Composable object factories.
 - [samccone/bundle-buddy](https://github.com/samccone/bundle-buddy) - A tool to understand your bundle size and why files are in your bundle
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
