@@ -147,10 +147,8 @@
 - [dougbinks/enkiTS](https://github.com/dougbinks/enkiTS) - A permissively licensed C and C++ Task Scheduler for creating parallel programs. Requires C++11 support.
 - [facebookresearch/TensorComprehensions](https://github.com/facebookresearch/TensorComprehensions) - A domain specific language to express machine learning workloads.
 - [atom/node-keytar](https://github.com/atom/node-keytar) - Native Password Node Module
-- [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [graphql/libgraphqlparser](https://github.com/graphql/libgraphqlparser) - A GraphQL query parser in C++ with C and C++ APIs
 - [ValveSoftware/GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Reliable & unreliable messages over UDP.  Robust message fragmentation & reassembly.  P2P networking / NAT traversal.  Encryption.
-- [microsoft/service-fabric](https://github.com/microsoft/service-fabric) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
 - [mandliya/algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
@@ -164,7 +162,6 @@
 - [Axosoft/nsfw](https://github.com/Axosoft/nsfw) - A super fast and scaleable file watcher that provides a consistent interface on Linux, OSX and Windows
 - [google/guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [cztomczak/cefpython](https://github.com/cztomczak/cefpython) - Python bindings for the Chromium Embedded Framework (CEF)
 - [prsyahmi/GpuRamDrive](https://github.com/prsyahmi/GpuRamDrive) - RamDrive that is backed by GPU Memory
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 
@@ -197,6 +194,7 @@
 ## Cython 
 
 - [wbolster/plyvel](https://github.com/wbolster/plyvel) - Plyvel, a fast and feature-rich Python interface to LevelDB
+- [cztomczak/cefpython](https://github.com/cztomczak/cefpython) - Python bindings for the Chromium Embedded Framework (CEF)
 
 ## Dockerfile 
 
@@ -374,7 +372,7 @@
 - [monperrus/crawler-user-agents](https://github.com/monperrus/crawler-user-agents) - Syntactic patterns of HTTP user-agents used by bots / robots / crawlers / scrapers / spiders. pull-request welcome :star:
 - [GoogleChromeLabs/go-hackernews](https://github.com/GoogleChromeLabs/go-hackernews) - A Hacker News client written in Go
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
-- [vcaesar/riot](https://github.com/vcaesar/riot) - Go Open Source, Distributed, Simple and efficient text/vector Search Engine
+- [vcaesar/riot](https://github.com/vcaesar/riot) - Go Open Source, Distributed, Simple and fastest efficient text/vector Search Engine
 - [seiflotfy/skizze-legacy](https://github.com/seiflotfy/skizze-legacy) - A probabilistic data structure service and storage
 - [OrlovEvgeny/go-mcache](https://github.com/OrlovEvgeny/go-mcache) - high performance in-memory cache
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
@@ -452,7 +450,6 @@
 - [Krever/fintech-engineering-handbook](https://github.com/Krever/fintech-engineering-handbook) - Patterns for building software that handles money
 - [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent
 - [jasonmoo/t.js](https://github.com/jasonmoo/t.js) - A tiny javascript templating framework in ~400 bytes gzipped
-- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [amiaopensource/ffmprovisr](https://github.com/amiaopensource/ffmprovisr) - Repository of useful FFmpeg commands for archivists!
@@ -623,7 +620,6 @@
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [Syed-Umair/logger](https://github.com/Syed-Umair/logger) - Logger for Electron Applications
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
-- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [developit/unistore](https://github.com/developit/unistore) - 🌶 350b / 650b state container with component actions for Preact & React
 - [haltu/muuri](https://github.com/haltu/muuri) - Infinite responsive, sortable, filterable and draggable layouts
 - [denisraslov/react-spreadsheet-grid](https://github.com/denisraslov/react-spreadsheet-grid) - An Excel-like grid component for React with custom cell editors, performant scroll & resizable columns
@@ -732,7 +728,6 @@
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [yang-wei/rd3](https://github.com/yang-wei/rd3) - react + d3
-- [aisingapore/TagUI](https://github.com/aisingapore/TagUI) - Free RPA tool by AI Singapore
 - [ded/reqwest](https://github.com/ded/reqwest) - browser asynchronous http requests
 - [oliviertassinari/a-journey-toward-better-style](https://github.com/oliviertassinari/a-journey-toward-better-style) - A Journey toward better style
 - [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser and serializer with nesting support
@@ -801,13 +796,12 @@
 
 ## Jupyter Notebook 
 
-- [nebius/token-factory-cookbook](https://github.com/nebius/token-factory-cookbook) - Runnable examples for building applications with open models on Nebius Token Factory.
 - [pdubroy/til](https://github.com/pdubroy/til) - Today I Learned - inspired by @simonw and @jbranchaud
 - [google-gemma/cookbook](https://github.com/google-gemma/cookbook) - A collection of guides and examples for the Gemma open models from Google.
 - [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3) - Reference PyTorch implementation and models for DINOv3
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [mv-lab/InstructIR](https://github.com/mv-lab/InstructIR) - [ECCV 2024] InstructIR: High-Quality Image Restoration Following Human Instructions https://huggingface.co/spaces/marcosv/InstructIR
-- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini platform
 - [google-research/retvec](https://github.com/google-research/retvec) - RETVec is an efficient, multilingual, and adversarially-robust text vectorizer.
 - [yell/boltzmann-machines](https://github.com/yell/boltzmann-machines) - Boltzmann Machines in TensorFlow with examples
 - [zackthoutt/wine-deep-learning](https://github.com/zackthoutt/wine-deep-learning) - Exploring applications of deep learning to the world of wine
@@ -838,6 +832,7 @@
 
 ## MDX 
 
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 ## Makefile 
@@ -895,11 +890,13 @@
 - [martenbjork/github-xp](https://github.com/martenbjork/github-xp) - Give Github some XP flair 🔥
 - [apache/openwhisk-external-resources](https://github.com/apache/openwhisk-external-resources) - ✨ Curated list of awesome OpenWhisk things ✨
 - [webpro/awesome-newsletters](https://github.com/webpro/awesome-newsletters) - The best (weekly) newsletters
+- [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [freach/kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 - [kensanata/numbers](https://github.com/kensanata/numbers) - Handwritten digits, a bit like the MNIST dataset.
 - [thedaviddias/Front-End-Design-Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist) - 💎 The Design Checklist for Creative Web Designers and Patient Front-End Developers
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 - [nikivdev/privacy-respecting](https://github.com/nikivdev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
+- [microsoft/service-fabric](https://github.com/microsoft/service-fabric) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [sidooms/MovieTweetings](https://github.com/sidooms/MovieTweetings) - A Live Movie Rating Dataset Collected From Twitter
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
@@ -958,7 +955,7 @@
 - [gopherchina/conference](https://github.com/gopherchina/conference) - 
 - [gurugio/book_assembly_8086](https://github.com/gurugio/book_assembly_8086) - Learn 16bit x86 Assembly with emulator
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
-- [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
+- [visuallyjs/visuallyjs](https://github.com/visuallyjs/visuallyjs) - VisuallyJs releases and issue tracking
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
 - [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
@@ -1094,7 +1091,7 @@
 - [FriendsOfCake/crud](https://github.com/FriendsOfCake/crud) - Production-grade rapid controller development with built in love for API and Search
 - [aws-samples/aws-refarch-wordpress](https://github.com/aws-samples/aws-refarch-wordpress) - This reference architecture provides best practices and a set of YAML CloudFormation templates for deploying WordPress on AWS.
 - [graphaware/neo4j-php-client](https://github.com/graphaware/neo4j-php-client) - PHP Client for Neo4j with Enterprise Support
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, respource aware file conversion server supporting 488 formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 490+ formats in 26 languages.
 - [zelon88/HRCloud2](https://github.com/zelon88/HRCloud2) - A full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool & More!
 - [aimeos/ai-client-html](https://github.com/aimeos/ai-client-html) - Aimeos e-commerce HTML client components
 - [amsgames/laravel-shop-gateway-paypal](https://github.com/amsgames/laravel-shop-gateway-paypal) - PayPal Gateway for Laravel Shop.
@@ -1281,6 +1278,7 @@
 - [fruitcake/laravel-debugbar](https://github.com/fruitcake/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succin
 - [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm) - The Official PHP MongoDB ORM/ODM
+- [aisingapore/TagUI](https://github.com/aisingapore/TagUI) - Free RPA tool by AI Singapore
 - [rinvex/countries](https://github.com/rinvex/countries) - Rinvex Country is a simple and lightweight package for retrieving country details with flexibility. A whole bunch of data including name, demonym, capital, iso codes, dialling codes, geo data, currenc
 - [rinvex/laravel-repositories](https://github.com/rinvex/laravel-repositories) - ⚠️ [ABANDONED] Rinvex Repository is a simple, intuitive, and smart implementation of Active Repository with extremely flexible & granular caching system for Laravel, used to abstract the data layer, m
 - [Attendize/Attendize](https://github.com/Attendize/Attendize) - Attendize is an open-source ticket selling and event management platform built on Laravel.
@@ -1343,7 +1341,7 @@
 - [daaain/claude-code-log](https://github.com/daaain/claude-code-log) - A Python CLI tool that converts Claude Code transcript JSONL files into readable HTML / Markdown format.
 - [pymupdf/pymupdf4llm](https://github.com/pymupdf/pymupdf4llm) - PyMuPDF4LLM
 - [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) - AI agent to evaluate and score resumes.
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8m
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powe
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
@@ -1356,7 +1354,7 @@
 - [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression
 - [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - [MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal devi
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)"
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google An
 - [QwenLM/Qwen-Image](https://github.com/QwenLM/Qwen-Image) - Qwen-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing.
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 - [studio-dots-ai/dots.ocr](https://github.com/studio-dots-ai/dots.ocr) - Multilingual Document Layout Parsing in a Single Vision-Language Model
@@ -1551,6 +1549,7 @@
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
 - [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 
 ## SCSS 
 
@@ -1626,8 +1625,10 @@
 
 ## TypeScript 
 
+- [CopilotKit/OpenDuet](https://github.com/CopilotKit/OpenDuet) - An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.
 - [lukeed/html](https://github.com/lukeed/html) - A fast HTML parser with source offsets and CSS selectors
 - [veedstudio/open-edit](https://github.com/veedstudio/open-edit) - Open-source, agent-driven editing pipeline: create subtitles, motion graphics, slides, edit and render videos.
+- [nebius/token-factory-cookbook](https://github.com/nebius/token-factory-cookbook) - Runnable examples for building applications with open models on Nebius Token Factory.
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
@@ -1699,7 +1700,7 @@
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [brunnolou/react-morph](https://github.com/brunnolou/react-morph) - Morphing Ui transitions made simple
-- [audreyt/ethercalc](https://github.com/audreyt/ethercalc) - Node.js port of Multi-user SocialCalc
+- [audreyt/ethercalc](https://github.com/audreyt/ethercalc) - Web spreadsheet — no sign-up, no install.
 - [nhn/tui.grid](https://github.com/nhn/tui.grid) - 🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
@@ -1738,7 +1739,7 @@
 - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [britecharts/britecharts](https://github.com/britecharts/britecharts) - Finished, accessible charts that any page, and any agent, can add with one script tag or one validated JSON config.
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
+- [gendotnew/ai](https://github.com/gendotnew/ai) - 
 - [google/tamperchrome](https://github.com/google/tamperchrome) - Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS).
 - [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [ramonszo/zuck.js](https://github.com/ramonszo/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
