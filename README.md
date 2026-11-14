@@ -147,6 +147,7 @@
 - [dougbinks/enkiTS](https://github.com/dougbinks/enkiTS) - A permissively licensed C and C++ Task Scheduler for creating parallel programs. Requires C++11 support.
 - [facebookresearch/TensorComprehensions](https://github.com/facebookresearch/TensorComprehensions) - A domain specific language to express machine learning workloads.
 - [atom/node-keytar](https://github.com/atom/node-keytar) - Native Password Node Module
+- [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [graphql/libgraphqlparser](https://github.com/graphql/libgraphqlparser) - A GraphQL query parser in C++ with C and C++ APIs
 - [ValveSoftware/GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Reliable & unreliable messages over UDP.  Robust message fragmentation & reassembly.  P2P networking / NAT traversal.  Encryption.
 - [mandliya/algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
@@ -217,7 +218,7 @@
 
 ## Go 
 
-- [Imbecile6197/klient](https://github.com/Imbecile6197/klient) - Mail client for GNOME: Proton Mail, Gmail, Seznam and IMAP with PGP, an AI assistant, an AI spam filter and local AI (Go, GTK4). In English and Czech.
+- [Imbecile6197/klient](https://github.com/Imbecile6197/klient) - Mail client for GNOME: Proton Mail, Gmail, Seznam and IMAP with PGP, an AI assistant, an AI spam filter and local AI (Go, GTK4). In English, German and Czech.
 - [gogpu/gogpu](https://github.com/gogpu/gogpu) - Pure Go GPU Application Framework — windowing, input, lifecycle, platform abstraction. Part of the GoGPU ecosystem.
 - [anaskhan96/soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
@@ -226,7 +227,6 @@
 - [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX: An Accelerated Machine Learning Framework For Go
 - [gomlx/go-huggingface](https://github.com/gomlx/go-huggingface) - Conveniently download files, models, tokenizers from HuggingFace Hub
 - [taigrr/spank](https://github.com/taigrr/spank) - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.
-- [glincker/stacklit](https://github.com/glincker/stacklit) - One command gives AI agents instant codebase context. ~250 tokens replaces 50,000+ tokens of exploration. Auto-configures Claude Code, Cursor, Aider.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [jaypipes/ghw](https://github.com/jaypipes/ghw) - Go HardWare discovery/inspection library
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
@@ -447,8 +447,10 @@
 
 ## HTML 
 
+- [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) - Guides and resources for AI engineers: an agents course, five handbooks, a hands-on second-brain project and a vetted reading list.
 - [Krever/fintech-engineering-handbook](https://github.com/Krever/fintech-engineering-handbook) - Patterns for building software that handles money
 - [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent
+- [glincker/stacklit](https://github.com/glincker/stacklit) - Stop making your AI re-read your codebase. Stacklit maps your repo once and keeps the map fresh. In a 450-session test, agents ran 82% fewer grep and glob searches. Free, MIT, one Go binary. Sets up C
 - [jasonmoo/t.js](https://github.com/jasonmoo/t.js) - A tiny javascript templating framework in ~400 bytes gzipped
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
@@ -856,7 +858,6 @@
 ## Others 
 
 - [AIScientists-Dev/academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer) - Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind.
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [AllThingsSmitty/typescript-tips-everyone-should-know](https://github.com/AllThingsSmitty/typescript-tips-everyone-should-know) - Practical TypeScript patterns for writing safer, more maintainable code. 🗃
 - [tonbistudio/llm-wiki](https://github.com/tonbistudio/llm-wiki) - Open-source template for building LLM-powered knowledge bases following Karpathy's LLM Wiki pattern
@@ -890,7 +891,6 @@
 - [martenbjork/github-xp](https://github.com/martenbjork/github-xp) - Give Github some XP flair 🔥
 - [apache/openwhisk-external-resources](https://github.com/apache/openwhisk-external-resources) - ✨ Curated list of awesome OpenWhisk things ✨
 - [webpro/awesome-newsletters](https://github.com/webpro/awesome-newsletters) - The best (weekly) newsletters
-- [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [freach/kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 - [kensanata/numbers](https://github.com/kensanata/numbers) - Handwritten digits, a bit like the MNIST dataset.
 - [thedaviddias/Front-End-Design-Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist) - 💎 The Design Checklist for Creative Web Designers and Patient Front-End Developers
@@ -1055,7 +1055,7 @@
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
 - [FreeDSx/SNMP](https://github.com/FreeDSx/SNMP) - A Pure PHP SNMP Library.
 - [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 128 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - Translations by native speakers for the Laravel ecosystem.
 - [ans-group/laravel-health-check](https://github.com/ans-group/laravel-health-check) - A package for checking the health of your Laravel & Lumen applications
 - [hisorange/browser-detect](https://github.com/hisorange/browser-detect) - Browser Detection for Laravel by hisorange!
 - [spatie/image-optimizer](https://github.com/spatie/image-optimizer) - Easily optimize images using PHP
@@ -1563,6 +1563,7 @@
 
 ## Shell 
 
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [pgsty/pigsty](https://github.com/pgsty/pigsty) - Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 575 PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
 - [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) - A Simplified, Focused and Open NAS OS_
 - [SimpleHomelab/Docker-Traefik](https://github.com/SimpleHomelab/Docker-Traefik) - Docker media and home server stack with Docker Compose, Traefik, CrowdSec, Google OAuth2/Authelia, and LetsEncrypt. Built with Deployrr and UDMS guides/videos.
@@ -1610,6 +1611,7 @@
 
 ## Swift 
 
+- [govijr/terminal-mac](https://github.com/govijr/terminal-mac) - Entire MacOS running in your terminal.
 - [Baddaboo/ClassicKit](https://github.com/Baddaboo/ClassicKit) - 💾 A collection of classic-style UI components for iOS
 
 ## TeX 
